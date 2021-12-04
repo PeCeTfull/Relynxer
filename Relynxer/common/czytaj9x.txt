@@ -1,0 +1,50 @@
+Relynxer 1.0
+Autor: PeCeT_full
+Strona WWW: http://www.pecetfull.pl/pl
+Copyright © by PeCeT_full 2021. Program Relynxer jest publikowany na zasadach licencji MIT. Wiêcej informacji mo¿na uzyskaæ zapoznaj¹c siê z plikiem Licence.txt do³¹czonym do aplikacji (polskie t³umaczenie licencji MIT: http://blaszyk-jarosinski.pl/wp-content/uploads/2008/05/licencja-mit-tlumaczenie.pdf).
+
+W razie wszelkich problemów czy te¿ w¹tpliwoœci proszê o kontakt.
+
+-------------
+Opis programu
+-------------
+
+Relynxer to program-kreator zaprojektowany przede wszystkim dla zabytkowych komputerów osobistych do ‚skracania’ ³¹czy witryn poprzez generowanie nowych (zazwyczaj krótszych) na stronie Lynx.re dziêki jej API. Sama aplikacja zosta³a napisana w jêzyku C++ i korzysta z biblioteki graficznego interfejsu u¿ytkownika wxWidgets. Serwis Lynx.re bazuje na silniku Shrinky.
+
+Minimalne wymagania sprzêtowe i systemowe: procesor o mocy 133 MHz lub szybszy; 16 MB dostêpnej pamiêci RAM; 3 MB dostêpnego wolnego miejsca na dysku, w którym znajduje siê program; system operacyjny Windows 95 lub nowszy; aktywne po³¹czenie z Internetem.
+
+--------------------------------------------
+Przygotowanie do pracy z systemem Windows 95
+--------------------------------------------
+
+Aby oprogramowanie mog³o prawid³owo dzia³aæ na Twoim komputerze z systemem Windows 95, musisz mieæ zainstalowany dodatek Windows Sockets 2 (Winsock 2). Jest on generalnie wymagany przez do³¹czone do programu biblioteki sieciowe.
+
+----------------
+Obs³uga programu
+----------------
+
+Program wita nas oknem kreatora. St¹d mo¿emy wprowadziæ nasz poprawny adres URL strony internetowej, dla której skrócone ³¹cze chcemy utworzyæ. Po ukoñczeniu zawsze mo¿na powróciæ do poprzedniego kroku i bez koniecznoœci ponownego uruchomienia aplikacji utworzyæ kolejne ³¹cze Lynx.re.
+
+---------------
+Opcje dodatkowe
+---------------
+
+Program Relynxer pozwala nam na dostosowanie ³¹cza poprzez zmianê nastêpuj¹cych parametrów: 
+
+* has³o, 
+
+* liczba u¿yæ, 
+
+* data wygaœniêcia, 
+
+* stan widocznoœci (domyœlnie publiczny), 
+
+* nazwa w³asna.
+
+Wszystkie z tych opcji s¹ w pe³ni opcjonalne.
+
+--------------
+Opcje programu
+--------------
+
+Mo¿emy zmieniæ jêzyk interfejsu u¿ytkownika oraz pokazywaæ lub ukrywaæ ostrze¿enie o protokole HTTP przy uruchamianiu programu.

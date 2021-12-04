@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxDialog" name="WaitDialog">
+		<centered>1</centered>
+		<style>wxCAPTION</style>
+		<object class="wxFlexGridSizer" variable="FgsMain" member="no">
+			<cols>1</cols>
+			<rows>2</rows>
+			<object class="sizeritem">
+				<object class="wxStaticText" name="ID_STXWAITMESSAGE" variable="StxWaitMessage" member="yes">
+					<label>Please wait while a new redirecting link is being generated...</label>
+				</object>
+				<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+				<border>10</border>
+				<option>1</option>
+			</object>
+			<object class="sizeritem">
+				<object class="wxButton" name="wxID_OK" variable="BtnAbort" member="yes">
+					<label>Abort</label>
+					<handler function="OnBtnAbortClick" entry="EVT_BUTTON" />
+				</object>
+				<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+				<border>5</border>
+				<option>1</option>
+			</object>
+		</object>
+	</object>
+</wxsmith>

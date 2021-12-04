@@ -1,0 +1,337 @@
+# Relynxer
+# Copyright (C) 2021 PeCeT_full
+# This file is distributed under the same license as the Relynxer package.
+# PeCeT_full <me@pecetfull.pl>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Relynxer 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-12 22:47+0100\n"
+"PO-Revision-Date: 2021-11-15 22:47+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"Last-Translator: PeCeT_full <me@pecetfull.pl>\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"Language: pl\n"
+
+#: dump/MoreDialog.cpp:66
+msgid "&About..."
+msgstr "O &programie..."
+
+#: dump/RelynxerMain.cpp:163 dump/RelynxerMain.cpp:244
+msgid "&Next >"
+msgstr "&Dalej >"
+
+#: dump/MoreDialog.cpp:153
+msgid ""
+".\n"
+"\n"
+"Current language: "
+msgstr ""
+".\n"
+"\n"
+"Obecny język: "
+
+#: dump/MoreDialog.cpp:153
+msgid ""
+".\n"
+"Build date: "
+msgstr ""
+".\n"
+"Data kompilacji: "
+
+#: dump/RelynxerMain.cpp:160
+msgid "< &Back"
+msgstr "< &Wstecz"
+
+#: dump/RelynxerMain.cpp:90
+msgid "<header>"
+msgstr "<nagłówek>"
+
+#: dump/RelynxerMain.cpp:95
+msgid "<main message>"
+msgstr "<wiadomość główna>"
+
+#: dump/MoreDialog.cpp:153
+msgid ""
+"A wizard program for the link shortening service Lynx.re. Powered by "
+"Shrinky.\n"
+"\n"
+"Build info: "
+msgstr ""
+"Program-kreator dla usługi do skracania łączy Lynx.re. Napędzany przez "
+"silnik Shrinky.\n"
+"\n"
+"Informacje o kompilacji: "
+
+#: dump/WaitDialog.cpp:31
+msgid "Abort"
+msgstr "Przerwij"
+
+#: dump/RelynxerMain.cpp:108
+msgid "Additional options"
+msgstr "Opcje dodatkowe"
+
+#: dump/SendRequestThread.cpp:112
+#, c-format
+msgid "An error has occurred due to the following reason: %s."
+msgstr "Wystąpił błąd z następującego powodu: %s."
+
+#: dump/SendRequestThread.cpp:101
+msgid ""
+"An error has occurred while processing the request. Enter another URL or try "
+"again later."
+msgstr ""
+"Wystąpił błąd podczas przetwarzania żądania. Wprowadź inny adres URL lub "
+"spróbuj ponownie później."
+
+#: dump/MoreDialog.cpp:134
+msgid ""
+"Another language has just been selected. To reflect all the changes, please "
+"restart the application."
+msgstr ""
+"Właśnie został wybrany inny język. Aby wszelkie zmiany zostały "
+"odzwierciedlone, proszę zrestartować aplikację."
+
+#: dump/wxTranslationHelper.cpp:70
+msgid "Array of language names and identifiers should have the same size."
+msgstr ""
+"Tablica nazw języków powinna być tego samego rozmiaru, co tablica "
+"identyfikatorów."
+
+#: dump/RelynxerMain.cpp:166
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: dump/MoreDialog.cpp:63
+msgid "Change &language"
+msgstr "Zmień &język"
+
+#: dump/MoreDialog.cpp:69
+msgid "Close window"
+msgstr "Zamknij okno"
+
+#: dump/SendRequestThread.cpp:84
+#, c-format
+msgid ""
+"Could not successfully establish the connection due to the following reason: "
+"%s."
+msgstr ""
+"Nie udało się pomyślnie nawiązać połączenia z następującego powodu: %s."
+
+#: dump/WaitDialog.cpp:90
+msgid "Error"
+msgstr "Błąd"
+
+#: dump/RelynxerMain.cpp:127
+msgid "Expire on:"
+msgstr "Wygasa dnia:"
+
+#: dump/RelynxerMain.cpp:229
+msgid "Finish"
+msgstr "Zakończ"
+
+#: dump/MoreDialog.cpp:102
+msgid "Hide HTTP &warning"
+msgstr "Ukrywaj &ostrzeżenie o protokole HTTP"
+
+#: dump/wxTranslationHelper.cpp:71
+msgid "Language"
+msgstr "Język"
+
+#: dump/RelynxerMain.cpp:79
+msgid "Lynx.re Link Shortener Wizard"
+msgstr "Kreator usługi skracania łączy Lynx.re"
+
+#: dump/MoreDialog.cpp:134
+msgid "Message"
+msgstr "Komunikat"
+
+#: dump/MoreDialog.cpp:54
+msgid "More options"
+msgstr "Więcej opcji"
+
+#: dump/RelynxerMain.cpp:156
+msgid "More..."
+msgstr "Więcej..."
+
+#: dump/RelynxerMain.cpp:140
+msgid "Optional custom name:"
+msgstr "Opcjonalna nazwa własna:"
+
+#: dump/RelynxerMain.cpp:113
+msgid "Password:"
+msgstr "Hasło:"
+
+#: dump/WaitDialog.cpp:29
+msgid "Please wait while a new redirecting link is being generated..."
+msgstr "Proszę czekać, trwa generowanie nowego łącza przekierowującego..."
+
+#: dump/RelynxerMain.cpp:133
+msgid "Public link"
+msgstr "Łącze publiczne"
+
+#: dump/RelynxerMain.cpp:56
+msgid "Ready to share"
+msgstr "Gotowe do użycia"
+
+#: dump/MoreDialog.cpp:150
+msgid "Relynxer"
+msgstr "Relynxer"
+
+#: dump/wxTranslationHelper.cpp:71
+msgid "Select your language."
+msgstr "Wybierz swój język."
+
+#: dump/MoreDialog.cpp:98
+msgid "Show HTTP &warning"
+msgstr "Pokazuj &ostrzeżenie o protokole HTTP"
+
+#: dump/MoreDialog.cpp:60
+msgid "Show/hide HTTP &warning"
+msgstr "Pokazuj/ukrywaj &ostrzeżenie o HTTP"
+
+#: dump/MoreDialog.cpp:155
+msgid ""
+"This program is published under The MIT License. For more information, "
+"please refer to the Licence.txt file included with the application."
+msgstr ""
+"Ten program jest publikowany na zasadach licencji MIT. Więcej informacji "
+"można uzyskać zapoznając się z plikiem Licence.txt dołączonym do aplikacji "
+"(polskie tłumaczenie licencji MIT: http://blaszyk-jarosinski.pl/wp-content/"
+"uploads/2008/05/licencja-mit-tlumaczenie.pdf)."
+
+#: dump/RelynxerApp.cpp:48
+msgid ""
+"This program uses HTTP which is not encrypted - this means that data sent "
+"through this program can be easily tracked. The encrypted HTTPS protocol is "
+"not supported in order to preserve compatibility with legacy Windows "
+"versions (especially Windows 95). If you do not wish to have your data "
+"possibly compromised by any other party, please do not enter any detail in "
+"the wizard and exit Relynxer immediately. The author does not take any "
+"responsibility in case of any piece of information retrieved from a request "
+"created by this application.\n"
+"\n"
+"You have been warned."
+msgstr ""
+"Program ten korzysta z protokołu HTTP, który nie jest szyfrowany - oznacza "
+"to, że dane przesłane za pośrednictwem tego programu mogą być łatwo "
+"śledzone. Szyfrowany protokół HTTPS nie jest obsługiwany w celu zachowania "
+"kompatybilności ze starszymi wersjami systemu Windows (w szczególności "
+"Windows 95). Jeżeli nie chcesz, aby Twoje dane zostały ewentualnie naruszone "
+"przez jakąkolwiek stronę, proszę nie wprowadzać żadnego szczegółu w "
+"kreatorze oraz natychmiast wyjść z programu Relynxer. Autor nie ponosi "
+"żadnej odpowiedzialności w przypadku pozyskania dowolnej informacji z "
+"żądania utworzonego przez tę aplikację.\n"
+"\n"
+"Zostałeś ostrzeżony."
+
+#: dump/RelynxerMain.cpp:55
+msgid ""
+"This wizard will guide you through the process of shortening your\n"
+"link.\n"
+"\n"
+"To continue, please enter the website URL you want to generate\n"
+"a shortened link of:"
+msgstr ""
+"Ten kreator przeprowadzi Cię przez proces skracania łącza.\n"
+"\n"
+"Aby kontynuować, proszę wpisać adres URL witryny, którego\n"
+"skrócone łącze ma zostać wygenerowane:"
+
+#: dump/SendRequestThread.cpp:114
+msgid "Unknown error."
+msgstr "Nieznany błąd."
+
+#: dump/RelynxerMain.cpp:118
+msgid "Usages:"
+msgstr "Użycia:"
+
+#: dump/RelynxerApp.cpp:48 dump/RelynxerMain.cpp:279
+msgid "Warning"
+msgstr "Ostrzeżenie"
+
+#: dump/RelynxerMain.cpp:54
+msgid "Welcome to Relynxer"
+msgstr "Witamy w Relynxerze"
+
+#: dump/RelynxerMain.cpp:279
+msgid "You need to enter the URL in order to proceed."
+msgstr "Aby kontynuować, należy wprowadzić adres URL."
+
+#: dump/RelynxerMain.cpp:103
+msgid "Your link:"
+msgstr "Twoje łącze:"
+
+#: dump/RelynxerMain.cpp:57
+msgid ""
+"Your shortened link has been successfully generated! Now you\n"
+"can share it with anyone you want to.\n"
+"\n"
+"To shorten another link, please return to the previous step."
+msgstr ""
+"Twoje skrócone łącze zostało pomyślnie wygenerowane! Można\n"
+"go teraz udostępniać dowolnie wybranym przez Ciebie osobom.\n"
+"\n"
+"Aby skrócić kolejne łącze, proszę wrócić do poprzedniego kroku."
+
+#: dump/MoreDialog.cpp:154
+msgid "http://www.pecetfull.pl"
+msgstr "http://www.pecetfull.pl/pl"
+
+#: OK (with hotkey)
+msgid "&OK"
+msgstr "&OK"
+
+#: Cancel (with hotkey)
+msgid "&Cancel"
+msgstr "&Anuluj"
+
+#: About
+msgid "About "
+msgstr "O programie "
+
+#: License
+msgid "License"
+msgstr "Licencja"
+
+#: banned
+msgid "banned"
+msgstr "jesteś zablokowany"
+
+#: custom name must be less than 60 chars
+msgid "custom name must be less than 60 chars"
+msgstr "nazwa własna musi zawierać mniej niż 60 znaków"
+
+#: domain not allowed
+msgid "domain not allowed"
+msgstr "określona domena nie jest dozwolona"
+
+#: invalid url
+msgid "invalid url"
+msgstr "nieprawidłowy adres URL"
+
+#: spam detected!
+msgid "spam detected!"
+msgstr "podany adres URL został wykryty jako spam"
+
+#: English
+msgid "English"
+msgstr "Angielski"
+
+#: English (Canada)
+msgid "English (Canada)"
+msgstr "Angielski (Kanada)"
+
+#: German
+msgid "German"
+msgstr "Niemiecki"
+
+#: Polish
+msgid "Polish"
+msgstr "Polski"

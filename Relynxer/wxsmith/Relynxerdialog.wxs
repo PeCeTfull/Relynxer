@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxDialog" name="RelynxerDialog">
+		<title>Lynx.re Link Shortener Wizard</title>
+		<centered>1</centered>
+		<id_arg>0</id_arg>
+		<object class="wxFlexGridSizer" variable="FgsMain" member="no">
+			<cols>1</cols>
+			<rows>3</rows>
+			<growablecols>1</growablecols>
+			<growablerows>1</growablerows>
+			<object class="sizeritem">
+				<object class="wxFlexGridSizer" variable="FgsDialogBody" member="no">
+					<cols>2</cols>
+					<rows>1</rows>
+					<growablecols>1</growablecols>
+					<growablerows>0</growablerows>
+					<object class="sizeritem">
+						<object class="wxPanel" name="ID_IMAGE" variable="PnlImage" member="yes">
+							<size>122,284</size>
+							<bg>wxSYS_COLOUR_WINDOW</bg>
+							<style>wxSUNKEN_BORDER|wxTAB_TRAVERSAL</style>
+						</object>
+						<flag>wxALL|wxALIGN_LEFT|wxALIGN_TOP</flag>
+						<border>5</border>
+						<option>1</option>
+					</object>
+					<object class="sizeritem">
+						<object class="wxFlexGridSizer" variable="FgsDialogContents" member="no">
+							<cols>1</cols>
+							<rows>4</rows>
+							<object class="sizeritem">
+								<object class="wxStaticText" name="ID_STXHEADER" variable="StxHeader" member="yes">
+									<label>&lt;header&gt;</label>
+									<font>
+										<size>18</size>
+										<style>normal</style>
+										<weight>bold</weight>
+										<underlined>0</underlined>
+										<family>swiss</family>
+										<face>MS Serif</face>
+									</font>
+									<minsize>314,-1</minsize>
+								</object>
+								<flag>wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+								<border>5</border>
+								<option>1</option>
+							</object>
+							<object class="sizeritem">
+								<object class="wxStaticText" name="ID_STXMAINMESSAGE" variable="StxMainMessage" member="yes">
+									<label>&lt;main message&gt;</label>
+									<minsize>314,-1</minsize>
+								</object>
+								<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+								<border>5</border>
+								<option>1</option>
+							</object>
+							<object class="sizeritem">
+								<object class="wxTextCtrl" name="ID_TXCURL" variable="TxcUrl" member="yes" />
+								<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+								<border>5</border>
+								<option>1</option>
+							</object>
+							<object class="sizeritem">
+								<object class="wxFlexGridSizer" variable="FgsYourLink" member="no">
+									<cols>2</cols>
+									<rows>1</rows>
+									<growablecols>1</growablecols>
+									<growablerows>1</growablerows>
+									<object class="sizeritem">
+										<object class="wxStaticText" name="ID_STXYOURLINK" variable="StxYourLink" member="yes">
+											<label>Your link:</label>
+										</object>
+										<flag>wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+										<border>5</border>
+										<option>1</option>
+									</object>
+									<object class="sizeritem">
+										<object class="wxTextCtrl" name="ID_TXCYOURLINK" variable="TxcYourLink" member="yes">
+											<style>wxTE_READONLY</style>
+										</object>
+										<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+										<border>5</border>
+										<option>1</option>
+									</object>
+								</object>
+								<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+								<option>1</option>
+							</object>
+							<object class="sizeritem">
+								<object class="wxStaticBoxSizer" variable="SbsAdditionalOptions" member="no">
+									<label>Additional options</label>
+									<object class="sizeritem">
+										<object class="wxBoxSizer" variable="BxsAdditionalOptions" member="no">
+											<orient>wxVERTICAL</orient>
+											<object class="sizeritem">
+												<object class="wxFlexGridSizer" variable="FgsPasswordUsages" member="no">
+													<cols>4</cols>
+													<rows>1</rows>
+													<growablecols>1</growablecols>
+													<growablerows>1</growablerows>
+													<object class="sizeritem">
+														<object class="wxStaticText" name="ID_STXPASSWORD" variable="StxPassword" member="yes">
+															<label>Password:</label>
+														</object>
+														<flag>wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+														<border>5</border>
+														<option>1</option>
+													</object>
+													<object class="sizeritem">
+														<object class="wxTextCtrl" name="ID_TXCPASSWORD" variable="TxcPassword" member="yes">
+															<maxlength>10</maxlength>
+															<size>60,-1</size>
+														</object>
+														<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+														<border>5</border>
+														<option>1</option>
+													</object>
+													<object class="sizeritem">
+														<object class="wxStaticText" name="ID_STXUSAGES" variable="StxUsages" member="yes">
+															<label>Usages:</label>
+														</object>
+														<flag>wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+														<border>5</border>
+														<option>1</option>
+													</object>
+													<object class="sizeritem">
+														<object class="wxSpinCtrl" name="ID_SPCUSAGES" variable="SpcUsages" member="yes">
+															<value>0</value>
+															<max>100000</max>
+															<size>76,-1</size>
+														</object>
+														<flag>wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+														<border>5</border>
+														<option>1</option>
+													</object>
+												</object>
+												<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+												<option>1</option>
+											</object>
+											<object class="sizeritem">
+												<object class="wxFlexGridSizer" variable="FgsExpirationDatePublicLink" member="no">
+													<cols>3</cols>
+													<rows>1</rows>
+													<growablecols>1</growablecols>
+													<growablerows>1</growablerows>
+													<object class="sizeritem">
+														<object class="wxCheckBox" name="ID_CHKEXPIREON" variable="ChkExpireOn" member="yes">
+															<label>Expire on:</label>
+															<handler function="OnChkExpireOnClick" entry="EVT_CHECKBOX" />
+														</object>
+														<flag>wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+														<border>5</border>
+														<option>1</option>
+													</object>
+													<object class="sizeritem">
+														<object class="wxDatePickerCtrl" name="ID_DTPEXPIRATIONDATE" variable="DtpExpirationDate" member="yes">
+															<size>90,-1</size>
+															<enabled>0</enabled>
+														</object>
+														<flag>wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+														<border>5</border>
+														<option>1</option>
+													</object>
+													<object class="sizeritem">
+														<object class="wxCheckBox" name="ID_CHKPUBLICLINK" variable="ChkPublicLink" member="yes">
+															<label>Public link</label>
+															<checked>1</checked>
+														</object>
+														<flag>wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL</flag>
+														<border>5</border>
+														<option>1</option>
+													</object>
+												</object>
+												<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+												<option>1</option>
+											</object>
+											<object class="sizeritem">
+												<object class="wxFlexGridSizer" variable="FgsOptionalCustomName" member="no">
+													<cols>2</cols>
+													<rows>1</rows>
+													<growablecols>1</growablecols>
+													<growablerows>1</growablerows>
+													<object class="sizeritem">
+														<object class="wxStaticText" name="ID_STXOPTIONALCUSTOMNAME" variable="StxOptionalCustomName" member="yes">
+															<label>Optional custom name:</label>
+														</object>
+														<flag>wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+														<border>5</border>
+														<option>1</option>
+													</object>
+													<object class="sizeritem">
+														<object class="wxTextCtrl" name="ID_TXCOPTIONALCUSTOMNAME" variable="TxcOptionalCustomName" member="yes">
+															<maxlength>60</maxlength>
+														</object>
+														<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+														<border>5</border>
+														<option>1</option>
+													</object>
+												</object>
+												<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+												<option>1</option>
+											</object>
+										</object>
+										<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+										<option>1</option>
+									</object>
+								</object>
+								<flag>wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+								<border>5</border>
+								<option>1</option>
+							</object>
+						</object>
+						<flag>wxALL|wxEXPAND|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+						<option>1</option>
+					</object>
+				</object>
+				<flag>wxALL|wxEXPAND|wxALIGN_TOP|wxALIGN_CENTER_HORIZONTAL</flag>
+				<border>5</border>
+				<option>1</option>
+			</object>
+			<object class="sizeritem">
+				<object class="wxStaticLine" name="ID_SEPARATOR" variable="SlnSeparator" member="yes">
+					<size>455,-1</size>
+				</object>
+				<flag>wxALL|wxALIGN_BOTTOM|wxALIGN_CENTER_HORIZONTAL</flag>
+				<border>5</border>
+				<option>1</option>
+			</object>
+			<object class="sizeritem">
+				<object class="wxFlexGridSizer" variable="FgsDialogButtons" member="no">
+					<cols>2</cols>
+					<rows>1</rows>
+					<growablecols>1</growablecols>
+					<growablerows>1</growablerows>
+					<object class="sizeritem">
+						<object class="wxFlexGridSizer" variable="FgsMiscButtons" member="no">
+							<cols>1</cols>
+							<rows>1</rows>
+							<object class="sizeritem">
+								<object class="wxButton" name="ID_BTNMORE" variable="BtnMore" member="yes">
+									<label>More...</label>
+									<handler function="OnBtnMoreClick" entry="EVT_BUTTON" />
+								</object>
+								<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+								<border>5</border>
+								<option>1</option>
+							</object>
+						</object>
+						<flag>wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL</flag>
+						<option>1</option>
+					</object>
+					<object class="sizeritem">
+						<object class="wxFlexGridSizer" variable="FgsStepButtons" member="no">
+							<cols>3</cols>
+							<rows>1</rows>
+							<object class="sizeritem">
+								<object class="wxButton" name="ID_BACK" variable="BtnBack" member="yes">
+									<label>&lt; &amp;Back</label>
+									<size>85,-1</size>
+									<enabled>0</enabled>
+									<handler function="OnBtnBackClick" entry="EVT_BUTTON" />
+								</object>
+								<flag>wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL</flag>
+								<border>5</border>
+								<option>1</option>
+							</object>
+							<object class="sizeritem">
+								<object class="wxButton" name="ID_NEXT" variable="BtnNext" member="yes">
+									<label>&amp;Next &gt;</label>
+									<default>1</default>
+									<size>85,-1</size>
+									<handler function="OnBtnNextClick" entry="EVT_BUTTON" />
+								</object>
+								<flag>wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL</flag>
+								<border>5</border>
+								<option>1</option>
+							</object>
+							<object class="sizeritem">
+								<object class="wxButton" name="wxID_OK" variable="BtnCancel" member="yes">
+									<label>Cancel</label>
+									<size>85,-1</size>
+									<handler function="OnBtnCancelClick" entry="EVT_BUTTON" />
+								</object>
+								<flag>wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL</flag>
+								<border>5</border>
+								<option>1</option>
+							</object>
+						</object>
+						<flag>wxALL|wxALIGN_RIGHT|wxALIGN_BOTTOM</flag>
+						<option>1</option>
+					</object>
+				</object>
+				<flag>wxALL|wxEXPAND|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+				<border>5</border>
+				<option>1</option>
+			</object>
+		</object>
+	</object>
+</wxsmith>

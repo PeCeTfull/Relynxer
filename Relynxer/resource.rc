@@ -1,0 +1,40 @@
+aaaa ICON "relynxer.ico"
+
+#include "wx/msw/wx.rc"
+
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+
+VS_VERSION_INFO    VERSIONINFO
+  FILEVERSION      1,0,0,0
+  PRODUCTVERSION   1,0,0,0
+  FILEFLAGSMASK    0x3fL // VS_FFI_FILEFLAGSMASK
+#ifdef _DEBUG
+  FILEFLAGS        0x1L  // VS_FF_DEBUG|VS_FF_PRIVATEBUILD|VS_FF_PRERELEASE
+#else
+  FILEFLAGS        0x0L  // final version
+#endif
+  FILEOS           VOS_NT_WINDOWS32
+  FILETYPE         VFT_APP
+  FILESUBTYPE      VFT2_UNKNOWN // not used
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "100904E4" // Lang=Canadian English, CharSet=Windows Multilingual
+    {
+      VALUE "Author",           "PeCeT_full\0"
+      VALUE "Comments",         "A wizard program for the link shortening service Lynx.re. Powered by Shrinky.\0"
+      VALUE "CompanyName",      "PeCeT_full\0"
+      VALUE "FileDescription",  "Relynxer\0"
+      VALUE "FileVersion",      "1.0\0"
+      VALUE "LegalCopyright",   "Copyright (C) PeCeT_full 2021\0"
+      VALUE "LegalTrademarks",  "Some rights reserved\0"
+      VALUE "OriginalFilename", "relynxer.exe\0"
+      VALUE "ProductName",      "Relynxer\0"
+      VALUE "ProductVersion",   "1.0\0"
+    } // BLOCK "100904E4"
+  } // BLOCK "StringFileInfo"
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x1009, 1252 // 1252 = 0x04E4
+  } // BLOCK "VarFileInfo"
+}

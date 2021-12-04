@@ -1,0 +1,295 @@
+# Relynxer
+# Copyright (C) 2021 PeCeT_full
+# This file is distributed under the same license as the Relynxer package.
+# PeCeT_full <me@pecetfull.pl>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-12 22:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: dump/MoreDialog.cpp:66
+msgid "&About..."
+msgstr ""
+
+#: dump/RelynxerMain.cpp:163 dump/RelynxerMain.cpp:244
+msgid "&Next >"
+msgstr ""
+
+#: dump/MoreDialog.cpp:153
+msgid ""
+".\n"
+"\n"
+"Current language: "
+msgstr ""
+
+#: dump/MoreDialog.cpp:153
+msgid ""
+".\n"
+"Build date: "
+msgstr ""
+
+#: dump/RelynxerMain.cpp:160
+msgid "< &Back"
+msgstr ""
+
+#: dump/RelynxerMain.cpp:90
+msgid "<header>"
+msgstr ""
+
+#: dump/RelynxerMain.cpp:95
+msgid "<main message>"
+msgstr ""
+
+#: dump/MoreDialog.cpp:153
+msgid ""
+"A wizard program for the link shortening service Lynx.re. Powered by "
+"Shrinky.\n"
+"\n"
+"Build info: "
+msgstr ""
+
+#: dump/WaitDialog.cpp:31
+msgid "Abort"
+msgstr ""
+
+#: dump/RelynxerMain.cpp:108
+msgid "Additional options"
+msgstr ""
+
+#: dump/SendRequestThread.cpp:112
+#, c-format
+msgid "An error has occurred due to the following reason: %s."
+msgstr ""
+
+#: dump/SendRequestThread.cpp:101
+msgid ""
+"An error has occurred while processing the request. Enter another URL or try "
+"again later."
+msgstr ""
+
+#: dump/MoreDialog.cpp:134
+msgid ""
+"Another language has just been selected. To reflect all the changes, please "
+"restart the application."
+msgstr ""
+
+#: dump/wxTranslationHelper.cpp:70
+msgid "Array of language names and identifiers should have the same size."
+msgstr ""
+
+#: dump/RelynxerMain.cpp:166
+msgid "Cancel"
+msgstr ""
+
+#: dump/MoreDialog.cpp:63
+msgid "Change &language"
+msgstr ""
+
+#: dump/MoreDialog.cpp:69
+msgid "Close window"
+msgstr ""
+
+#: dump/SendRequestThread.cpp:84
+#, c-format
+msgid ""
+"Could not successfully establish the connection due to the following reason: "
+"%s."
+msgstr ""
+
+#: dump/WaitDialog.cpp:90
+msgid "Error"
+msgstr ""
+
+#: dump/RelynxerMain.cpp:127
+msgid "Expire on:"
+msgstr ""
+
+#: dump/RelynxerMain.cpp:229
+msgid "Finish"
+msgstr ""
+
+#: dump/MoreDialog.cpp:102
+msgid "Hide HTTP &warning"
+msgstr ""
+
+#: dump/wxTranslationHelper.cpp:71
+msgid "Language"
+msgstr ""
+
+#: dump/RelynxerMain.cpp:79
+msgid "Lynx.re Link Shortener Wizard"
+msgstr ""
+
+#: dump/MoreDialog.cpp:134
+msgid "Message"
+msgstr ""
+
+#: dump/MoreDialog.cpp:54
+msgid "More options"
+msgstr ""
+
+#: dump/RelynxerMain.cpp:156
+msgid "More..."
+msgstr ""
+
+#: dump/RelynxerMain.cpp:140
+msgid "Optional custom name:"
+msgstr ""
+
+#: dump/RelynxerMain.cpp:113
+msgid "Password:"
+msgstr ""
+
+#: dump/WaitDialog.cpp:29
+msgid "Please wait while a new redirecting link is being generated..."
+msgstr ""
+
+#: dump/RelynxerMain.cpp:133
+msgid "Public link"
+msgstr ""
+
+#: dump/RelynxerMain.cpp:56
+msgid "Ready to share"
+msgstr ""
+
+#: dump/MoreDialog.cpp:150
+msgid "Relynxer"
+msgstr ""
+
+#: dump/wxTranslationHelper.cpp:71
+msgid "Select your language."
+msgstr ""
+
+#: dump/MoreDialog.cpp:98
+msgid "Show HTTP &warning"
+msgstr ""
+
+#: dump/MoreDialog.cpp:60
+msgid "Show/hide HTTP &warning"
+msgstr ""
+
+#: dump/MoreDialog.cpp:155
+msgid ""
+"This program is published under The MIT License. For more information, "
+"please refer to the Licence.txt file included with the application."
+msgstr ""
+
+#: dump/RelynxerApp.cpp:48
+msgid ""
+"This program uses HTTP which is not encrypted - this means that data sent "
+"through this program can be easily tracked. The encrypted HTTPS protocol is "
+"not supported in order to preserve compatibility with legacy Windows "
+"versions (especially Windows 95). If you do not wish to have your data "
+"possibly compromised by any other party, please do not enter any detail in "
+"the wizard and exit Relynxer immediately. The author does not take any "
+"responsibility in case of any piece of information retrieved from a request "
+"created by this application.\n"
+"\n"
+"You have been warned."
+msgstr ""
+
+#: dump/RelynxerMain.cpp:55
+msgid ""
+"This wizard will guide you through the process of shortening your\n"
+"link.\n"
+"\n"
+"To continue, please enter the website URL you want to generate\n"
+"a shortened link of:"
+msgstr ""
+
+#: dump/SendRequestThread.cpp:114
+msgid "Unknown error."
+msgstr ""
+
+#: dump/RelynxerMain.cpp:118
+msgid "Usages:"
+msgstr ""
+
+#: dump/RelynxerApp.cpp:48 dump/RelynxerMain.cpp:279
+msgid "Warning"
+msgstr ""
+
+#: dump/RelynxerMain.cpp:54
+msgid "Welcome to Relynxer"
+msgstr ""
+
+#: dump/RelynxerMain.cpp:279
+msgid "You need to enter the URL in order to proceed."
+msgstr ""
+
+#: dump/RelynxerMain.cpp:103
+msgid "Your link:"
+msgstr ""
+
+#: dump/RelynxerMain.cpp:57
+msgid ""
+"Your shortened link has been successfully generated! Now you\n"
+"can share it with anyone you want to.\n"
+"\n"
+"To shorten another link, please return to the previous step."
+msgstr ""
+
+#: dump/MoreDialog.cpp:154
+msgid "http://www.pecetfull.pl"
+msgstr ""
+
+#: OK (with hotkey)
+msgid "&OK"
+msgstr ""
+
+#: Cancel (with hotkey)
+msgid "&Cancel"
+msgstr ""
+
+#: About
+msgid "About "
+msgstr ""
+
+#: License
+msgid "License"
+msgstr ""
+
+#: banned
+msgid "banned"
+msgstr ""
+
+#: custom name must be less than 60 chars
+msgid "custom name must be less than 60 chars"
+msgstr ""
+
+#: domain not allowed
+msgid "domain not allowed"
+msgstr ""
+
+#: invalid url
+msgid "invalid url"
+msgstr ""
+
+#: spam detected!
+msgid "spam detected!"
+msgstr ""
+
+#: English
+msgid "English"
+msgstr ""
+
+#: English (Canada)
+msgid "English (Canada)"
+msgstr ""
+
+#: German
+msgid "German"
+msgstr ""
+
+#: Polish
+msgid "Polish"
+msgstr ""

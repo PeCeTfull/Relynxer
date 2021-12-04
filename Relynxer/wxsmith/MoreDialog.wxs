@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxDialog" name="MoreDialog">
+		<title>More options</title>
+		<centered>1</centered>
+		<pos_arg>1</pos_arg>
+		<size_arg>1</size_arg>
+		<object class="wxFlexGridSizer" variable="FgsMain" member="no">
+			<cols>1</cols>
+			<rows>3</rows>
+			<growablecols>1</growablecols>
+			<growablerows>3</growablerows>
+			<object class="sizeritem">
+				<object class="wxButton" name="ID_BTNSHOWHIDEHTTPWARNING" variable="BtnShowHideHTTPWarning" member="yes">
+					<label>Show/hide HTTP &amp;warning</label>
+					<minsize>250,-1</minsize>
+					<handler function="OnBtnShowHideHTTPWarningClick" entry="EVT_BUTTON" />
+				</object>
+				<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+				<border>5</border>
+				<option>1</option>
+			</object>
+			<object class="sizeritem">
+				<object class="wxButton" name="ID_BTNLANGUAGE" variable="BtnLanguage" member="yes">
+					<label>Change &amp;language</label>
+					<minsize>250,-1</minsize>
+					<handler function="OnBtnLanguageClick" entry="EVT_BUTTON" />
+				</object>
+				<flag>wxALL|wxEXPAND|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+				<border>5</border>
+				<option>1</option>
+			</object>
+			<object class="sizeritem">
+				<object class="wxButton" name="ID_BTNABOUT" variable="BtnAbout" member="yes">
+					<label>&amp;About...</label>
+					<minsize>250,-1</minsize>
+					<handler function="OnBtnAboutClick" entry="EVT_BUTTON" />
+				</object>
+				<flag>wxALL|wxEXPAND|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+				<border>5</border>
+				<option>1</option>
+			</object>
+			<object class="sizeritem">
+				<object class="wxButton" name="wxID_OK" variable="BtnCloseWindow" member="yes">
+					<label>Close window</label>
+					<minsize>250,-1</minsize>
+					<handler function="OnBtnCloseWindowClick" entry="EVT_BUTTON" />
+				</object>
+				<flag>wxALL|wxEXPAND|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+				<border>5</border>
+				<option>1</option>
+			</object>
+		</object>
+	</object>
+</wxsmith>

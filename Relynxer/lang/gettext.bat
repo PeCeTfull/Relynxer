@@ -1,0 +1,1 @@
+xgettext cppfiles/* -d relynxer -s --keyword=_ -p cppfiles/ -o relynxer.pot
