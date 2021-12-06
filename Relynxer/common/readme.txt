@@ -41,7 +41,7 @@ Relynxer, just like Lynx.re, allows you to customise your link by adjusting the 
 
 * custom name.
 
-All of these options are fully optional.
+All of these parameters are fully optional.
 
 ---------------
 Program options

@@ -9,7 +9,7 @@ W razie wszelkich problemów czy te¿ w¹tpliwoœci proszê o kontakt.
 Opis programu
 -------------
 
-Relynxer to program-kreator zaprojektowany przede wszystkim dla zabytkowych komputerów osobistych do ‚skracania’ ³¹czy witryn poprzez generowanie nowych (zazwyczaj krótszych) na stronie Lynx.re dziêki jej API. Sama aplikacja zosta³a napisana w jêzyku C++ i korzysta z biblioteki graficznego interfejsu u¿ytkownika wxWidgets. Serwis Lynx.re bazuje na silniku Shrinky.
+Relynxer to program-kreator zaprojektowany przede wszystkim dla zabytkowych komputerów osobistych do ‚skracania’ adresów URL witryn poprzez generowanie nowych (zazwyczaj krótszych) na stronie Lynx.re dziêki jej API. Sama aplikacja zosta³a napisana w jêzyku C++ i korzysta z biblioteki graficznego interfejsu u¿ytkownika wxWidgets. Serwis Lynx.re bazuje na silniku Shrinky.
 
 Minimalne wymagania sprzêtowe i systemowe: procesor o mocy 133 MHz lub szybszy; 16 MB dostêpnej pamiêci RAM; 3 MB dostêpnego wolnego miejsca na dysku, w którym znajduje siê program; system operacyjny Windows 95 lub nowszy; aktywne po³¹czenie z Internetem.
 
@@ -41,7 +41,7 @@ Program Relynxer pozwala nam na dostosowanie ³¹cza poprzez zmianê nastêpuj¹cych 
 
 * nazwa w³asna.
 
-Wszystkie z tych opcji s¹ w pe³ni opcjonalne.
+Wszystkie z tych parametrów s¹ w pe³ni opcjonalne.
 
 --------------
 Opcje programu
