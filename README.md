@@ -1,6 +1,6 @@
 ﻿# Relynxer #
 
-Relynxer is a wizard program designed especially for vintage PCs for 'shortening' website URLs by generating new (typically shorter) ones on Lynx.re thanks to its API. The application itself was written in C++ and uses wxWidgets GUI library. The Lynx.re service is based on Shrinky.
+Relynxer is a wizard program designed especially for vintage PCs for 'shortening' website URLs by generating new (typically shorter) ones on Lynx.re thanks to its API. The application itself was written in C++ and uses wxWidgets GUI library. The Lynx.re service is based on Shrinky by Hassan.
 
 ### Getting to work in Windows 95 ###
 
