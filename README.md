@@ -34,7 +34,7 @@ You can change the UI language and show or hide the HTTP warning on program laun
 
 Source and target OS: Windows
 
-IDE: Code::Blocks 13.12
+IDE: Code::Blocks Release 13.12 rev 9501 (2013/12/25 19:25:45) gcc 4.7.1 Windows/unicode - 32 bit
 
 wxWidgets version: 2.8.12 (SHARED=0 MONOLITHIC=1 UNICODE=1 MSLU=1)
 
