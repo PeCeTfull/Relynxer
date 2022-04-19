@@ -199,11 +199,10 @@ msgstr ""
 
 #: dump/RelynxerMain.cpp:55
 msgid ""
-"This wizard will guide you through the process of shortening your\n"
-"link.\n"
+"This wizard will guide you through the process of shortening your link.\n"
 "\n"
-"To continue, please enter the website URL you want to generate\n"
-"a shortened link of:"
+"To continue, please enter the website URL you want to generate a shortened "
+"link of:"
 msgstr ""
 
 #: dump/SendRequestThread.cpp:114
@@ -232,8 +231,8 @@ msgstr ""
 
 #: dump/RelynxerMain.cpp:57
 msgid ""
-"Your shortened link has been successfully generated! Now you\n"
-"can share it with anyone you want to.\n"
+"Your shortened link has been successfully generated! Now you can share it "
+"with anyone you want to.\n"
 "\n"
 "To shorten another link, please return to the previous step."
 msgstr ""

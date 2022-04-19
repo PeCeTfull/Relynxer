@@ -1,7 +1,7 @@
-Relynxer 1.0
+Relynxer 1.0.1
 Author: PeCeT_full
 Website: http://www.pecetfull.pl
-Copyright (c) by PeCeT_full 2021. Relynxer is published under The MIT License. For more information, please refer to Licence.txt included with the application.
+Copyright (c) by PeCeT_full 2021-2022. Relynxer is published under The MIT License. For more information, please refer to Licence.txt included with the application.
 
 If there are any problems or doubts, please contact me.
 

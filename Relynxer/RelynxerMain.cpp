@@ -51,6 +51,8 @@ BEGIN_EVENT_TABLE(RelynxerDialog,wxDialog)
     //*)
 END_EVENT_TABLE()
 
+// control attributes
+int mainMessageCtrlWidth;
 // common messages
 wxString welcomeHeader;
 wxString welcomeMessage;
@@ -115,12 +117,12 @@ RelynxerDialog::RelynxerDialog(wxWindow* parent,wxWindowID id)
     FgsPasswordUsages->Add(StxPassword, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
     TxcPassword = new wxTextCtrl(this, ID_TXCPASSWORD, wxEmptyString, wxDefaultPosition, wxSize(60,-1), 0, wxDefaultValidator, _T("ID_TXCPASSWORD"));
     TxcPassword->SetMaxLength(10);
-    FgsPasswordUsages->Add(TxcPassword, 1, wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
+    FgsPasswordUsages->Add(TxcPassword, 1, wxTOP|wxBOTTOM|wxRIGHT|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
     StxUsages = new wxStaticText(this, ID_STXUSAGES, _("Usages:"), wxDefaultPosition, wxDefaultSize, 0, _T("ID_STXUSAGES"));
     FgsPasswordUsages->Add(StxUsages, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
     SpcUsages = new wxSpinCtrl(this, ID_SPCUSAGES, _T("0"), wxDefaultPosition, wxSize(76,-1), 0, 0, 100000, 0, _T("ID_SPCUSAGES"));
     SpcUsages->SetValue(_T("0"));
-    FgsPasswordUsages->Add(SpcUsages, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
+    FgsPasswordUsages->Add(SpcUsages, 1, wxTOP|wxBOTTOM|wxRIGHT|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
     BxsAdditionalOptions->Add(FgsPasswordUsages, 1, wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
     FgsExpirationDatePublicLink = new wxFlexGridSizer(1, 3, 0, 0);
     FgsExpirationDatePublicLink->AddGrowableCol(1);
@@ -130,10 +132,10 @@ RelynxerDialog::RelynxerDialog(wxWindow* parent,wxWindowID id)
     FgsExpirationDatePublicLink->Add(ChkExpireOn, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
     DtpExpirationDate = new wxDatePickerCtrl(this, ID_DTPEXPIRATIONDATE, wxDefaultDateTime, wxDefaultPosition, wxSize(90,-1), wxDP_DEFAULT|wxDP_SHOWCENTURY, wxDefaultValidator, _T("ID_DTPEXPIRATIONDATE"));
     DtpExpirationDate->Disable();
-    FgsExpirationDatePublicLink->Add(DtpExpirationDate, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
+    FgsExpirationDatePublicLink->Add(DtpExpirationDate, 1, wxTOP|wxBOTTOM|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
     ChkPublicLink = new wxCheckBox(this, ID_CHKPUBLICLINK, _("Public link"), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_CHKPUBLICLINK"));
     ChkPublicLink->SetValue(true);
-    FgsExpirationDatePublicLink->Add(ChkPublicLink, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
+    FgsExpirationDatePublicLink->Add(ChkPublicLink, 1, wxTOP|wxBOTTOM|wxLEFT|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
     BxsAdditionalOptions->Add(FgsExpirationDatePublicLink, 1, wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
     FgsOptionalCustomName = new wxFlexGridSizer(1, 2, 0, 0);
     FgsOptionalCustomName->AddGrowableCol(1);
@@ -142,7 +144,7 @@ RelynxerDialog::RelynxerDialog(wxWindow* parent,wxWindowID id)
     FgsOptionalCustomName->Add(StxOptionalCustomName, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
     TxcOptionalCustomName = new wxTextCtrl(this, ID_TXCOPTIONALCUSTOMNAME, wxEmptyString, wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_TXCOPTIONALCUSTOMNAME"));
     TxcOptionalCustomName->SetMaxLength(60);
-    FgsOptionalCustomName->Add(TxcOptionalCustomName, 1, wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
+    FgsOptionalCustomName->Add(TxcOptionalCustomName, 1, wxTOP|wxBOTTOM|wxRIGHT|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
     BxsAdditionalOptions->Add(FgsOptionalCustomName, 1, wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
     SbsAdditionalOptions->Add(BxsAdditionalOptions, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 0);
     FgsDialogContents->Add(SbsAdditionalOptions, 1, wxALL|wxEXPAND|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 5);
@@ -155,17 +157,17 @@ RelynxerDialog::RelynxerDialog(wxWindow* parent,wxWindowID id)
     FgsDialogButtons->AddGrowableRow(1);
     FgsMiscButtons = new wxFlexGridSizer(1, 1, 0, 0);
     BtnMore = new wxButton(this, ID_BTNMORE, _("More..."), wxDefaultPosition, wxDefaultSize, 0, wxDefaultValidator, _T("ID_BTNMORE"));
-    FgsMiscButtons->Add(BtnMore, 1, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
+    FgsMiscButtons->Add(BtnMore, 1, wxTOP|wxBOTTOM|wxRIGHT|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     FgsDialogButtons->Add(FgsMiscButtons, 1, wxALL|wxALIGN_LEFT|wxALIGN_CENTER_VERTICAL, 0);
     FgsStepButtons = new wxFlexGridSizer(1, 3, 0, 0);
     BtnBack = new wxButton(this, ID_BACK, _("< &Back"), wxDefaultPosition, wxSize(85,-1), 0, wxDefaultValidator, _T("ID_BACK"));
     BtnBack->Disable();
-    FgsStepButtons->Add(BtnBack, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
+    FgsStepButtons->Add(BtnBack, 1, wxTOP|wxBOTTOM|wxLEFT|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
     BtnNext = new wxButton(this, ID_NEXT, _("&Next >"), wxDefaultPosition, wxSize(85,-1), 0, wxDefaultValidator, _T("ID_NEXT"));
     BtnNext->SetDefault();
-    FgsStepButtons->Add(BtnNext, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
+    FgsStepButtons->Add(BtnNext, 1, wxTOP|wxBOTTOM|wxRIGHT|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
     BtnCancel = new wxButton(this, wxID_OK, _("Cancel"), wxDefaultPosition, wxSize(85,-1), 0, wxDefaultValidator, _T("wxID_OK"));
-    FgsStepButtons->Add(BtnCancel, 1, wxALL|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
+    FgsStepButtons->Add(BtnCancel, 1, wxTOP|wxBOTTOM|wxLEFT|wxALIGN_RIGHT|wxALIGN_CENTER_VERTICAL, 5);
     FgsDialogButtons->Add(FgsStepButtons, 1, wxALL|wxALIGN_RIGHT|wxALIGN_BOTTOM, 0);
     FgsMain->Add(FgsDialogButtons, 1, wxALL|wxEXPAND|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     SetSizer(FgsMain);
@@ -181,13 +183,15 @@ RelynxerDialog::RelynxerDialog(wxWindow* parent,wxWindowID id)
     //*)
 
     SetIcon(wxIcon(wxT(ICON_NAME)));
+    mainMessageCtrlWidth = StxMainMessage->GetMinWidth();
     welcomeHeader = _("Welcome to Relynxer");
-    welcomeMessage = _("This wizard will guide you through the process of shortening your\nlink.\n\nTo continue, please enter the website URL you want to generate\na shortened link of:");
+    welcomeMessage = _("This wizard will guide you through the process of shortening your link.\n\nTo continue, please enter the website URL you want to generate a shortened link of:");
     successHeader = _("Ready to share");
-    successMessage = _("Your shortened link has been successfully generated! Now you\ncan share it with anyone you want to.\n\nTo shorten another link, please return to the previous step.");
+    successMessage = _("Your shortened link has been successfully generated! Now you can share it with anyone you want to.\n\nTo shorten another link, please return to the previous step.");
 
     StxHeader->SetLabel(welcomeHeader);
     StxMainMessage->SetLabel(welcomeMessage);
+    StxMainMessage->Wrap(mainMessageCtrlWidth);
     FgsDialogContents->Hide(FgsYourLink);
     RefreshDialogView();
 
@@ -223,6 +227,7 @@ void RelynxerDialog::SwitchStep()
     {
         StxHeader->SetLabel(successHeader);
         StxMainMessage->SetLabel(successMessage);
+        StxMainMessage->Wrap(mainMessageCtrlWidth);
         pntFgsDialogContents->Hide(pntSbsAdditionalOptions);
         pntFgsDialogContents->Show(pntFgsYourLink);
         TxcUrl->Disable();
@@ -239,6 +244,7 @@ void RelynxerDialog::SwitchStep()
     {
         StxHeader->SetLabel(welcomeHeader);
         StxMainMessage->SetLabel(welcomeMessage);
+        StxMainMessage->Wrap(mainMessageCtrlWidth);
         pntFgsDialogContents->Hide(pntFgsYourLink);
         pntFgsDialogContents->Show(pntSbsAdditionalOptions);
         TxcUrl->Enable();

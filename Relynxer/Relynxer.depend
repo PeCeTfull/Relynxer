@@ -11,7 +11,7 @@
 	"ConfigFile.h"
 	<wx/app.h>
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\app.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\app.h
 	"wx/event.h"
 	"wx/build.h"
 	"wx/init.h"
@@ -29,7 +29,7 @@
 	"wx/os2/app.h"
 	"wx/univ/theme.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\event.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\event.h
 	"wx/defs.h"
 	"wx/cpp.h"
 	"wx/object.h"
@@ -39,7 +39,7 @@
 	"wx/thread.h"
 	"wx/dynarray.h"
 
-1298308168 e:\wxwidgets-2.8.12\include\wx\defs.h
+1298311768 e:\wxwidgets-2.8.12\include\wx\defs.h
 	"wx/platform.h"
 	"wx/features.h"
 	"wx/version.h"
@@ -50,7 +50,7 @@
 	<unistd.h>
 	"wx/msw/winundef.h"
 
-1266315694 e:\wxwidgets-2.8.12\include\wx\platform.h
+1266319294 e:\wxwidgets-2.8.12\include\wx\platform.h
 	<stddef.h>
 	<AvailabilityMacros.h>
 	<unistd.h>
@@ -64,7 +64,7 @@
 
 1264674360 e:\wxwidgets-2.8.12\lib\gcc_lib\mswud\wx\setup.h
 
-1187332094 e:\wxwidgets-2.8.12\include\wx\chkconf.h
+1187335694 e:\wxwidgets-2.8.12\include\wx\chkconf.h
 	"wx/palmos/chkconf.h"
 	"wx/msw/wince/chkconf.h"
 	"wx/msw/chkconf.h"
@@ -76,35 +76,35 @@
 	"wx/x11/chkconf.h"
 	"wx/univ/chkconf.h"
 
-1234519244 e:\wxwidgets-2.8.12\include\wx\msw\wince\chkconf.h
+1234522844 e:\wxwidgets-2.8.12\include\wx\msw\wince\chkconf.h
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\chkconf.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\chkconf.h
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\chkconf.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\chkconf.h
 
-1186407648 e:\wxwidgets-2.8.12\include\wx\msw\wince\libraries.h
+1186411248 e:\wxwidgets-2.8.12\include\wx\msw\wince\libraries.h
 
-1186407650 e:\wxwidgets-2.8.12\include\wx\msw\libraries.h
+1186411250 e:\wxwidgets-2.8.12\include\wx\msw\libraries.h
 
-1186407650 e:\wxwidgets-2.8.12\include\wx\msw\gccpriv.h
+1186411250 e:\wxwidgets-2.8.12\include\wx\msw\gccpriv.h
 	<_mingw.h>
 	<w32api.h>
 
-1186407690 e:\wxwidgets-2.8.12\include\wx\features.h
+1186411290 e:\wxwidgets-2.8.12\include\wx\features.h
 
-1298308168 e:\wxwidgets-2.8.12\include\wx\version.h
+1298311768 e:\wxwidgets-2.8.12\include\wx\version.h
 	"wx/cpp.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\cpp.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\cpp.h
 
-1194614180 e:\wxwidgets-2.8.12\include\wx\dlimpexp.h
+1194617780 e:\wxwidgets-2.8.12\include\wx\dlimpexp.h
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\debug.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\debug.h
 	<assert.h>
 	<limits.h>
 	"wx/wxchar.h"
 
-1298308168 e:\wxwidgets-2.8.12\include\wx\wxchar.h
+1298311768 e:\wxwidgets-2.8.12\include\wx\wxchar.h
 	"wx/platform.h"
 	"wx/dlimpexp.h"
 	<stdio.h>
@@ -134,20 +134,20 @@
 	<time.h>
 	<string.h>
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\winundef.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\winundef.h
 
-1264670764 e:\wxwidgets-2.8.12\include\wx\object.h
+1264674364 e:\wxwidgets-2.8.12\include\wx\object.h
 	"wx/memory.h"
 	"wx/xti.h"
 	"wx/msw/msvcrt.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\memory.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\memory.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/msgout.h"
 	<stddef.h>
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\string.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\string.h
 	"wx/defs.h"
 	<ctype.h>
 	<stdio.h>
@@ -170,11 +170,11 @@
 	"wx/arrstr.h"
 	"wx/iosfwrap.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\buffer.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\buffer.h
 	"wx/wxchar.h"
 	<stdlib.h>
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\strconv.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\strconv.h
 	"wx/defs.h"
 	"wx/wxchar.h"
 	"wx/buffer.h"
@@ -182,35 +182,35 @@
 	<stdlib.h>
 	"wx/fontenc.h"
 
-1186407694 e:\wxwidgets-2.8.12\include\wx\fontenc.h
+1186411294 e:\wxwidgets-2.8.12\include\wx\fontenc.h
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\beforestd.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\beforestd.h
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\afterstd.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\afterstd.h
 	"wx/msw/winundef.h"
 
-1264670764 e:\wxwidgets-2.8.12\include\wx\arrstr.h
+1264674364 e:\wxwidgets-2.8.12\include\wx\arrstr.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/dynarray.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\dynarray.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\dynarray.h
 	"wx/defs.h"
 	"wx/beforestd.h"
 	<vector>
 	<algorithm>
 	"wx/afterstd.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\iosfwrap.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\iosfwrap.h
 	<iostream.h>
 	<iosfwd>
 	"wx/msw/winundef.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\msgout.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\msgout.h
 	"wx/defs.h"
 	"wx/wxchar.h"
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\xti.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\xti.h
 	"wx/defs.h"
 	"wx/memory.h"
 	"wx/flags.h"
@@ -222,9 +222,9 @@
 	<typeinfo>
 	"wx/dynarray.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\flags.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\flags.h
 
-1234519246 e:\wxwidgets-2.8.12\include\wx\hashmap.h
+1234522846 e:\wxwidgets-2.8.12\include\wx\hashmap.h
 	"wx/string.h"
 	<unordered_map>
 	<tr1/unordered_map>
@@ -232,7 +232,7 @@
 	<hash_map>
 	<stddef.h>
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\log.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\log.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/arrstr.h"
@@ -242,27 +242,27 @@
 	"wx/generic/logg.h"
 	"wx/cocoa/log.h"
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\logg.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\logg.h
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\intl.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\intl.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/fontenc.h"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\msvcrt.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\msvcrt.h
 	<stdlib.h>
 	<crtdbg.h>
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\clntdata.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\clntdata.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/hashmap.h"
 	"wx/vector.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\vector.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\vector.h
 	"wx/defs.h"
 
-1194614180 e:\wxwidgets-2.8.12\include\wx\gdicmn.h
+1194617780 e:\wxwidgets-2.8.12\include\wx\gdicmn.h
 	"wx/defs.h"
 	"wx/list.h"
 	"wx/string.h"
@@ -270,7 +270,7 @@
 	"wx/hashmap.h"
 	"wx/math.h"
 
-1264670764 e:\wxwidgets-2.8.12\include\wx\list.h
+1264674364 e:\wxwidgets-2.8.12\include\wx\list.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
@@ -280,12 +280,12 @@
 	<list>
 	"wx/afterstd.h"
 
-1264670764 e:\wxwidgets-2.8.12\include\wx\math.h
+1264674364 e:\wxwidgets-2.8.12\include\wx\math.h
 	"wx/defs.h"
 	<math.h>
 	<float.h>
 
-1186407690 e:\wxwidgets-2.8.12\include\wx\cursor.h
+1186411290 e:\wxwidgets-2.8.12\include\wx\cursor.h
 	"wx/defs.h"
 	"wx/palmos/cursor.h"
 	"wx/msw/cursor.h"
@@ -300,18 +300,18 @@
 	"wx/os2/cursor.h"
 	"wx/utils.h"
 
-1195458930 e:\wxwidgets-2.8.12\include\wx\msw\cursor.h
+1195462530 e:\wxwidgets-2.8.12\include\wx\msw\cursor.h
 	"wx/msw/gdiimage.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\gdiimage.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\gdiimage.h
 	"wx/gdiobj.h"
 	"wx/gdicmn.h"
 	"wx/list.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\gdiobj.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\gdiobj.h
 	"wx/object.h"
 
-1264670764 e:\wxwidgets-2.8.12\include\wx\utils.h
+1264674364 e:\wxwidgets-2.8.12\include\wx\utils.h
 	"wx/object.h"
 	"wx/list.h"
 	"wx/filefn.h"
@@ -323,7 +323,7 @@
 	<unistd.h>
 	<stdio.h>
 
-1266315694 e:\wxwidgets-2.8.12\include\wx\filefn.h
+1266319294 e:\wxwidgets-2.8.12\include\wx\filefn.h
 	"wx/list.h"
 	"wx/arrstr.h"
 	"wx/msw/wince/time.h"
@@ -359,23 +359,23 @@
 	<fcntl.h>
 	<sys/types.h>
 
-1186407648 e:\wxwidgets-2.8.12\include\wx\msw\wince\time.h
+1186411248 e:\wxwidgets-2.8.12\include\wx\msw\wince\time.h
 
-1264670760 e:\wxwidgets-2.8.12\include\wx\msw\private.h
+1264674360 e:\wxwidgets-2.8.12\include\wx\msw\private.h
 	"wx/msw/wrapwin.h"
 	"wx/msw/microwin.h"
 	"wx/log.h"
 	"wx/gdicmn.h"
 	"wx/colour.h"
 
-1213612284 e:\wxwidgets-2.8.12\include\wx\msw\wrapwin.h
+1213615884 e:\wxwidgets-2.8.12\include\wx\msw\wrapwin.h
 	"wx/platform.h"
 	<windows.h>
 	"wx/msw/winundef.h"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\microwin.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\microwin.h
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\colour.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\colour.h
 	"wx/defs.h"
 	"wx/gdiobj.h"
 	"wx/variant.h"
@@ -391,7 +391,7 @@
 	"wx/cocoa/colour.h"
 	"wx/os2/colour.h"
 
-1186407690 e:\wxwidgets-2.8.12\include\wx\variant.h
+1186411290 e:\wxwidgets-2.8.12\include\wx\variant.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
@@ -402,7 +402,7 @@
 	"wx/db.h"
 	"wx/iosfwrap.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\datetime.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\datetime.h
 	"wx/defs.h"
 	<time.h>
 	"wx/msw/wince/time.h"
@@ -410,13 +410,13 @@
 	"wx/longlong.h"
 	"wx/dynarray.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\longlong.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\longlong.h
 	"wx/defs.h"
 	"wx/string.h"
 	<limits.h>
 	"wx/iosfwrap.h"
 
-1234519246 e:\wxwidgets-2.8.12\include\wx\db.h
+1234522846 e:\wxwidgets-2.8.12\include\wx\db.h
 	"wx/defs.h"
 	"wx/string.h"
 	<afxwin.h>
@@ -433,36 +433,36 @@
 	<sqlext.h>
 	"wx/object.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\isql.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\isql.h
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\isqlext.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\isqlext.h
 	"wx/isql.h"
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\colour.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\colour.h
 	"wx/object.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\colour.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\colour.h
 	"wx/object.h"
 
-1186407690 e:\wxwidgets-2.8.12\include\wx\platinfo.h
+1186411290 e:\wxwidgets-2.8.12\include\wx\platinfo.h
 	"wx/string.h"
 
-1298308168 e:\wxwidgets-2.8.12\include\wx\thread.h
+1298311768 e:\wxwidgets-2.8.12\include\wx\thread.h
 	"wx/defs.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\build.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\build.h
 	"wx/version.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\init.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\init.h
 	"wx/defs.h"
 	"wx/wxchar.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\app.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\app.h
 	"wx/event.h"
 	"wx/icon.h"
 	"wx/msw/wrapwin.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\icon.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\icon.h
 	"wx/iconloc.h"
 	"wx/generic/icon.h"
 	"wx/msw/icon.h"
@@ -477,13 +477,13 @@
 	"wx/os2/icon.h"
 	"wx/variant.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\iconloc.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\iconloc.h
 	"wx/string.h"
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\icon.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\icon.h
 	"wx/bitmap.h"
 
-1194614180 e:\wxwidgets-2.8.12\include\wx\bitmap.h
+1194617780 e:\wxwidgets-2.8.12\include\wx\bitmap.h
 	"wx/string.h"
 	"wx/gdicmn.h"
 	"wx/colour.h"
@@ -501,11 +501,11 @@
 	"wx/os2/bitmap.h"
 	"wx/generic/mask.h"
 
-1194614174 e:\wxwidgets-2.8.12\include\wx\msw\bitmap.h
+1194617774 e:\wxwidgets-2.8.12\include\wx\msw\bitmap.h
 	"wx/msw/gdiimage.h"
 	"wx/palette.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\palette.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\palette.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/gdiobj.h"
@@ -518,21 +518,21 @@
 	"wx/mac/palette.h"
 	"wx/os2/palette.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\palette.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\palette.h
 	"wx/gdiobj.h"
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\paletteg.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\paletteg.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/gdiobj.h"
 	"wx/gdicmn.h"
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\mask.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\mask.h
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\icon.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\icon.h
 	"wx/msw/gdiimage.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\theme.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\theme.h
 	"wx/string.h"
 
 1637007600 c:\users\mateusz\projekty codeblocks\relynxer\relynxermain.h
@@ -549,11 +549,11 @@
 	<wx/dialog.h>
 	"include/LinkParams.h"
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\sizer.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\sizer.h
 	"wx/defs.h"
 	"wx/window.h"
 
-1234519248 e:\wxwidgets-2.8.12\include\wx\window.h
+1234522848 e:\wxwidgets-2.8.12\include\wx\window.h
 	"wx/event.h"
 	"wx/list.h"
 	"wx/cursor.h"
@@ -579,7 +579,7 @@
 	"wx/os2/window.h"
 	"wx/univ/window.h"
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\font.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\font.h
 	"wx/defs.h"
 	"wx/fontenc.h"
 	"wx/gdiobj.h"
@@ -595,10 +595,10 @@
 	"wx/cocoa/font.h"
 	"wx/os2/font.h"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\font.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\font.h
 	"wx/gdicmn.h"
 
-1194614178 e:\wxwidgets-2.8.12\include\wx\region.h
+1194617778 e:\wxwidgets-2.8.12\include\wx\region.h
 	"wx/gdiobj.h"
 	"wx/gdicmn.h"
 	"wx/palmos/region.h"
@@ -612,13 +612,13 @@
 	"wx/cocoa/region.h"
 	"wx/os2/region.h"
 
-1264670760 e:\wxwidgets-2.8.12\include\wx\msw\region.h
+1264674360 e:\wxwidgets-2.8.12\include\wx\msw\region.h
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\validate.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\validate.h
 	"wx/defs.h"
 	"wx/event.h"
 
-1298308168 e:\wxwidgets-2.8.12\include\wx\accel.h
+1298311768 e:\wxwidgets-2.8.12\include\wx\accel.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/generic/accel.h"
@@ -630,30 +630,30 @@
 	"wx/generic/accel.h"
 	"wx/os2/accel.h"
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\accel.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\accel.h
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\accel.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\accel.h
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\access.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\access.h
 	"wx/defs.h"
 	"wx/variant.h"
 	"wx/msw/ole/access.h"
 
-1186407642 e:\wxwidgets-2.8.12\include\wx\msw\ole\access.h
+1186411242 e:\wxwidgets-2.8.12\include\wx\msw\ole\access.h
 
-1213612284 e:\wxwidgets-2.8.12\include\wx\msw\window.h
+1213615884 e:\wxwidgets-2.8.12\include\wx\msw\window.h
 	"wx/hash.h"
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\hash.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\hash.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/list.h"
 	"wx/dynarray.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\window.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\window.h
 	"wx/bitmap.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\statline.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\statline.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/univ/statline.h"
@@ -665,7 +665,7 @@
 	"wx/cocoa/statline.h"
 	"wx/generic/statline.h"
 
-1186407690 e:\wxwidgets-2.8.12\include\wx\control.h
+1186411290 e:\wxwidgets-2.8.12\include\wx\control.h
 	"wx/defs.h"
 	"wx/window.h"
 	"wx/univ/control.h"
@@ -678,36 +678,36 @@
 	"wx/cocoa/control.h"
 	"wx/os2/control.h"
 
-1264670758 e:\wxwidgets-2.8.12\include\wx\univ\control.h
+1264674358 e:\wxwidgets-2.8.12\include\wx\univ\control.h
 	"wx/univ/inphand.h"
 	"wx/univ/inpcons.h"
 
-1264670758 e:\wxwidgets-2.8.12\include\wx\univ\inphand.h
+1264674358 e:\wxwidgets-2.8.12\include\wx\univ\inphand.h
 	"wx/univ/inpcons.h"
 
-1264670758 e:\wxwidgets-2.8.12\include\wx\univ\inpcons.h
+1264674358 e:\wxwidgets-2.8.12\include\wx\univ\inpcons.h
 	"wx/object.h"
 	"wx/event.h"
 
-1186407650 e:\wxwidgets-2.8.12\include\wx\msw\control.h
+1186411250 e:\wxwidgets-2.8.12\include\wx\msw\control.h
 	"wx/dynarray.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\statline.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\statline.h
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\statline.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\statline.h
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\statline.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\statline.h
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\panel.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\panel.h
 	"wx/generic/panelg.h"
 
-1194614178 e:\wxwidgets-2.8.12\include\wx\generic\panelg.h
+1194617778 e:\wxwidgets-2.8.12\include\wx\generic\panelg.h
 	"wx/window.h"
 	"wx/containr.h"
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\containr.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\containr.h
 
-1194614178 e:\wxwidgets-2.8.12\include\wx\button.h
+1194617778 e:\wxwidgets-2.8.12\include\wx\button.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/univ/button.h"
@@ -720,12 +720,12 @@
 	"wx/os2/button.h"
 	"wx/palmos/button.h"
 
-1264670758 e:\wxwidgets-2.8.12\include\wx\univ\button.h
+1264674358 e:\wxwidgets-2.8.12\include\wx\univ\button.h
 	"wx/bitmap.h"
 
-1186407650 e:\wxwidgets-2.8.12\include\wx\msw\button.h
+1186411250 e:\wxwidgets-2.8.12\include\wx\msw\button.h
 
-1195458932 e:\wxwidgets-2.8.12\include\wx\dialog.h
+1195462532 e:\wxwidgets-2.8.12\include\wx\dialog.h
 	"wx/defs.h"
 	"wx/containr.h"
 	"wx/toplevel.h"
@@ -739,7 +739,7 @@
 	"wx/cocoa/dialog.h"
 	"wx/os2/dialog.h"
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\toplevel.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\toplevel.h
 	"wx/window.h"
 	"wx/iconbndl.h"
 	"wx/palmos/toplevel.h"
@@ -755,23 +755,23 @@
 	"wx/motif/toplevel.h"
 	"wx/univ/toplevel.h"
 
-1194614180 e:\wxwidgets-2.8.12\include\wx\iconbndl.h
+1194617780 e:\wxwidgets-2.8.12\include\wx\iconbndl.h
 	"wx/dynarray.h"
 	"wx/gdicmn.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\toplevel.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\toplevel.h
 
-1264670756 e:\wxwidgets-2.8.12\include\wx\univ\toplevel.h
+1264674356 e:\wxwidgets-2.8.12\include\wx\univ\toplevel.h
 	"wx/univ/inpcons.h"
 	"wx/univ/inphand.h"
 	"wx/icon.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\dialog.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\dialog.h
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\dialog.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\dialog.h
 	"wx/panel.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\image.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\image.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
@@ -790,66 +790,66 @@
 	"wx/imagxpm.h"
 	"wx/imagiff.h"
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\stream.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\stream.h
 	"wx/defs.h"
 	<stdio.h>
 	"wx/object.h"
 	"wx/string.h"
 	"wx/filefn.h"
 
-1264670764 e:\wxwidgets-2.8.12\include\wx\imagbmp.h
+1264674364 e:\wxwidgets-2.8.12\include\wx\imagbmp.h
 	"wx/image.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\imagpng.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\imagpng.h
 	"wx/defs.h"
 	"wx/image.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\imaggif.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\imaggif.h
 	"wx/image.h"
 
-1186407694 e:\wxwidgets-2.8.12\include\wx\imagpcx.h
+1186411294 e:\wxwidgets-2.8.12\include\wx\imagpcx.h
 	"wx/image.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\imagjpeg.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\imagjpeg.h
 	"wx/defs.h"
 	"wx/image.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\imagtga.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\imagtga.h
 	"wx/image.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\imagtiff.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\imagtiff.h
 	"wx/defs.h"
 	"wx/image.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\imagpnm.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\imagpnm.h
 	"wx/image.h"
 
-1186407690 e:\wxwidgets-2.8.12\include\wx\imagxpm.h
+1186411290 e:\wxwidgets-2.8.12\include\wx\imagxpm.h
 	"wx/image.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\imagiff.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\imagiff.h
 	"wx/image.h"
 
 1636751925 source:c:\users\mateusz\projekty codeblocks\relynxer\resource.rc
 	"wx/msw/wx.rc"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\wx.rc
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\wx.rc
 	<winresrc.h>
 	<windows.h>
 	"wx/msw/wince/wince.rc"
 	"wx/msw/rcdefs.h"
 
-1186407648 e:\wxwidgets-2.8.12\include\wx\msw\wince\wince.rc
+1186411248 e:\wxwidgets-2.8.12\include\wx\msw\wince\wince.rc
 	<commctrl.h>
 	"wx/msw/wince/smartphone.rc"
 
-1186407648 e:\wxwidgets-2.8.12\include\wx\msw\wince\smartphone.rc
+1186411248 e:\wxwidgets-2.8.12\include\wx\msw\wince\smartphone.rc
 	<aygshell.h>
 	"wx/msw/wince/resources.h"
 
-1186407648 e:\wxwidgets-2.8.12\include\wx\msw\wince\resources.h
+1186411248 e:\wxwidgets-2.8.12\include\wx\msw\wince\resources.h
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\rcdefs.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\rcdefs.h
 
 1637007560 source:c:\users\mateusz\projekty codeblocks\relynxer\relynxermain.cpp
 	"RelynxerMain.h"
@@ -864,7 +864,7 @@
 	<wx/intl.h>
 	<wx/string.h>
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\msgdlg.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\msgdlg.h
 	"wx/defs.h"
 	"wx/generic/msgdlgg.h"
 	"wx/generic/msgdlgg.h"
@@ -878,19 +878,19 @@
 	"wx/cocoa/msgdlg.h"
 	"wx/os2/msgdlg.h"
 
-1195458932 e:\wxwidgets-2.8.12\include\wx\generic\msgdlgg.h
+1195462532 e:\wxwidgets-2.8.12\include\wx\generic\msgdlgg.h
 	"wx/defs.h"
 	"wx/dialog.h"
 
-1186407650 e:\wxwidgets-2.8.12\include\wx\msw\msgdlg.h
+1186411250 e:\wxwidgets-2.8.12\include\wx\msw\msgdlg.h
 	"wx/defs.h"
 	"wx/dialog.h"
 
-1299058790 e:\wxwidgets-2.8.12\include\wx\settings.h
+1299062390 e:\wxwidgets-2.8.12\include\wx\settings.h
 	"wx/colour.h"
 	"wx/font.h"
 
-1186407690 e:\wxwidgets-2.8.12\include\wx\stattext.h
+1186411290 e:\wxwidgets-2.8.12\include\wx\stattext.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/univ/stattext.h"
@@ -903,11 +903,11 @@
 	"wx/os2/stattext.h"
 	"wx/palmos/stattext.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\stattext.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\stattext.h
 
-1186407650 e:\wxwidgets-2.8.12\include\wx\msw\stattext.h
+1186411250 e:\wxwidgets-2.8.12\include\wx\msw\stattext.h
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\textctrl.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\textctrl.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/dynarray.h"
@@ -924,26 +924,26 @@
 	"wx/cocoa/textctrl.h"
 	"wx/os2/textctrl.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\ioswrap.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\ioswrap.h
 	<iostream.h>
 	<iostream>
 	"wx/msw/winundef.h"
 
-1264670758 e:\wxwidgets-2.8.12\include\wx\univ\textctrl.h
+1264674358 e:\wxwidgets-2.8.12\include\wx\univ\textctrl.h
 	"wx/scrolwin.h"
 	"wx/univ/inphand.h"
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\scrolwin.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\scrolwin.h
 	"wx/panel.h"
 	"wx/gtk/scrolwin.h"
 	"wx/gtk1/scrolwin.h"
 
-1186407648 e:\wxwidgets-2.8.12\include\wx\msw\wince\textctrlce.h
+1186411248 e:\wxwidgets-2.8.12\include\wx\msw\wince\textctrlce.h
 	"wx/dynarray.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\textctrl.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\textctrl.h
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\checkbox.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\checkbox.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/univ/checkbox.h"
@@ -956,12 +956,12 @@
 	"wx/os2/checkbox.h"
 	"wx/palmos/checkbox.h"
 
-1264670758 e:\wxwidgets-2.8.12\include\wx\univ\checkbox.h
+1264674358 e:\wxwidgets-2.8.12\include\wx\univ\checkbox.h
 	"wx/button.h"
 
-1186407650 e:\wxwidgets-2.8.12\include\wx\msw\checkbox.h
+1186411250 e:\wxwidgets-2.8.12\include\wx\msw\checkbox.h
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\spinctrl.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\spinctrl.h
 	"wx/defs.h"
 	"wx/spinbutt.h"
 	"wx/generic/spinctlg.h"
@@ -973,7 +973,7 @@
 	"wx/mac/spinctrl.h"
 	"wx/generic/spinctlg.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\spinbutt.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\spinbutt.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/event.h"
@@ -986,23 +986,23 @@
 	"wx/cocoa/spinbutt.h"
 	"wx/os2/spinbutt.h"
 
-1264670758 e:\wxwidgets-2.8.12\include\wx\univ\spinbutt.h
+1264674358 e:\wxwidgets-2.8.12\include\wx\univ\spinbutt.h
 	"wx/univ/scrarrow.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\scrarrow.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\scrarrow.h
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\spinbutt.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\spinbutt.h
 	"wx/control.h"
 	"wx/event.h"
 
-1264670764 e:\wxwidgets-2.8.12\include\wx\generic\spinctlg.h
+1264674364 e:\wxwidgets-2.8.12\include\wx\generic\spinctlg.h
 	"wx/textctrl.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\spinctrl.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\spinctrl.h
 	"wx/spinbutt.h"
 	"wx/dynarray.h"
 
-1264670764 e:\wxwidgets-2.8.12\include\wx\datectrl.h
+1264674364 e:\wxwidgets-2.8.12\include\wx\datectrl.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/datetime.h"
@@ -1010,11 +1010,11 @@
 	"wx/msw/datectrl.h"
 	"wx/generic/datectrl.h"
 
-1186407650 e:\wxwidgets-2.8.12\include\wx\msw\datectrl.h
+1186411250 e:\wxwidgets-2.8.12\include\wx\msw\datectrl.h
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\datectrl.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\datectrl.h
 
-1186407690 e:\wxwidgets-2.8.12\include\wx\dateevt.h
+1186411290 e:\wxwidgets-2.8.12\include\wx\dateevt.h
 	"wx/event.h"
 	"wx/datetime.h"
 	"wx/window.h"
@@ -1023,7 +1023,7 @@
 	<wx/wx.h>
 	<wx/sizer.h>
 
-1186407694 e:\wxwidgets-2.8.12\include\wx\wx.h
+1186411294 e:\wxwidgets-2.8.12\include\wx\wx.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/dynarray.h"
@@ -1103,16 +1103,16 @@
 	"wx/validate.h"
 	"wx/valtext.h"
 
-1264670764 e:\wxwidgets-2.8.12\include\wx\stopwatch.h
+1264674364 e:\wxwidgets-2.8.12\include\wx\stopwatch.h
 	"wx/defs.h"
 	"wx/longlong.h"
 
-1264670764 e:\wxwidgets-2.8.12\include\wx\module.h
+1264674364 e:\wxwidgets-2.8.12\include\wx\module.h
 	"wx/object.h"
 	"wx/list.h"
 	"wx/dynarray.h"
 
-1195458932 e:\wxwidgets-2.8.12\include\wx\frame.h
+1195462532 e:\wxwidgets-2.8.12\include\wx\frame.h
 	"wx/toplevel.h"
 	"wx/univ/frame.h"
 	"wx/palmos/frame.h"
@@ -1124,11 +1124,11 @@
 	"wx/cocoa/frame.h"
 	"wx/os2/frame.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\frame.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\frame.h
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\frame.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\frame.h
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\dc.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\dc.h
 	"wx/object.h"
 	"wx/intl.h"
 	"wx/cursor.h"
@@ -1154,7 +1154,7 @@
 	"wx/os2/dc.h"
 	"wx/dcgraph.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\brush.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\brush.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/gdiobj.h"
@@ -1169,12 +1169,12 @@
 	"wx/cocoa/brush.h"
 	"wx/os2/brush.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\brush.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\brush.h
 	"wx/gdicmn.h"
 	"wx/gdiobj.h"
 	"wx/bitmap.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\pen.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\pen.h
 	"wx/defs.h"
 	"wx/palmos/pen.h"
 	"wx/msw/pen.h"
@@ -1187,31 +1187,31 @@
 	"wx/cocoa/pen.h"
 	"wx/os2/pen.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\pen.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\pen.h
 	"wx/gdiobj.h"
 	"wx/bitmap.h"
 	"wx/colour.h"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\dc.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\dc.h
 	"wx/defs.h"
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\dcgraph.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\dcgraph.h
 	"wx/geometry.h"
 	"wx/dynarray.h"
 	"wx/graphics.h"
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\geometry.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\geometry.h
 	"wx/defs.h"
 	"wx/utils.h"
 	"wx/gdicmn.h"
 	"wx/math.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\graphics.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\graphics.h
 	"wx/defs.h"
 	"wx/geometry.h"
 	"wx/dynarray.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\dcclient.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\dcclient.h
 	"wx/defs.h"
 	"wx/palmos/dcclient.h"
 	"wx/msw/dcclient.h"
@@ -1225,11 +1225,11 @@
 	"wx/cocoa/dcclient.h"
 	"wx/os2/dcclient.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\dcclient.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\dcclient.h
 	"wx/dc.h"
 	"wx/dynarray.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\dcmemory.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\dcmemory.h
 	"wx/bitmap.h"
 	"wx/palmos/dcmemory.h"
 	"wx/msw/dcmemory.h"
@@ -1243,21 +1243,21 @@
 	"wx/cocoa/dcmemory.h"
 	"wx/os2/dcmemory.h"
 
-1188280274 e:\wxwidgets-2.8.12\include\wx\msw\dcmemory.h
+1188283874 e:\wxwidgets-2.8.12\include\wx\msw\dcmemory.h
 	"wx/dcclient.h"
 
-1186407694 e:\wxwidgets-2.8.12\include\wx\dcprint.h
+1186411294 e:\wxwidgets-2.8.12\include\wx\dcprint.h
 	"wx/defs.h"
 	"wx/palmos/dcprint.h"
 	"wx/msw/dcprint.h"
 	"wx/os2/dcprint.h"
 	"wx/mac/dcprint.h"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\dcprint.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\dcprint.h
 	"wx/dc.h"
 	"wx/cmndata.h"
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\cmndata.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\cmndata.h
 	"wx/window.h"
 	"wx/font.h"
 	"wx/encinfo.h"
@@ -1265,10 +1265,10 @@
 	"wx/gdicmn.h"
 	"wx/stream.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\encinfo.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\encinfo.h
 	"wx/string.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\dcscreen.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\dcscreen.h
 	"wx/defs.h"
 	"wx/palmos/dcscreen.h"
 	"wx/msw/dcscreen.h"
@@ -1282,10 +1282,10 @@
 	"wx/cocoa/dcscreen.h"
 	"wx/os2/dcscreen.h"
 
-1186407650 e:\wxwidgets-2.8.12\include\wx\msw\dcscreen.h
+1186411250 e:\wxwidgets-2.8.12\include\wx\msw\dcscreen.h
 	"wx/dc.h"
 
-1194614178 e:\wxwidgets-2.8.12\include\wx\menuitem.h
+1194617778 e:\wxwidgets-2.8.12\include\wx\menuitem.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/univ/menuitem.h"
@@ -1298,18 +1298,18 @@
 	"wx/cocoa/menuitem.h"
 	"wx/os2/menuitem.h"
 
-1264670758 e:\wxwidgets-2.8.12\include\wx\univ\menuitem.h
+1264674358 e:\wxwidgets-2.8.12\include\wx\univ\menuitem.h
 
-1187158710 e:\wxwidgets-2.8.12\include\wx\msw\menuitem.h
+1187162310 e:\wxwidgets-2.8.12\include\wx\msw\menuitem.h
 	"wx/ownerdrw.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\ownerdrw.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\ownerdrw.h
 	"wx/defs.h"
 	"wx/bitmap.h"
 	"wx/colour.h"
 	"wx/font.h"
 
-1194614180 e:\wxwidgets-2.8.12\include\wx\menu.h
+1194617780 e:\wxwidgets-2.8.12\include\wx\menu.h
 	"wx/defs.h"
 	"wx/list.h"
 	"wx/window.h"
@@ -1324,16 +1324,16 @@
 	"wx/cocoa/menu.h"
 	"wx/os2/menu.h"
 
-1187158704 e:\wxwidgets-2.8.12\include\wx\univ\menu.h
+1187162304 e:\wxwidgets-2.8.12\include\wx\univ\menu.h
 	"wx/accel.h"
 	"wx/dynarray.h"
 
-1194614174 e:\wxwidgets-2.8.12\include\wx\msw\menu.h
+1194617774 e:\wxwidgets-2.8.12\include\wx\msw\menu.h
 	"wx/accel.h"
 	"wx/dynarray.h"
 	"wx/arrstr.h"
 
-1186407694 e:\wxwidgets-2.8.12\include\wx\timer.h
+1186411294 e:\wxwidgets-2.8.12\include\wx\timer.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/longlong.h"
@@ -1349,11 +1349,11 @@
 	"wx/mac/timer.h"
 	"wx/os2/timer.h"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\timer.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\timer.h
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\timer.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\timer.h
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\dataobj.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\dataobj.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/bitmap.h"
@@ -1384,17 +1384,17 @@
 	"wx/cocoa/dataobj2.h"
 	"wx/os2/dataobj2.h"
 
-1186407642 e:\wxwidgets-2.8.12\include\wx\msw\ole\dataform.h
+1186411242 e:\wxwidgets-2.8.12\include\wx\msw\ole\dataform.h
 
-1186407642 e:\wxwidgets-2.8.12\include\wx\msw\ole\dataobj.h
+1186411242 e:\wxwidgets-2.8.12\include\wx\msw\ole\dataobj.h
 
-1186407642 e:\wxwidgets-2.8.12\include\wx\msw\ole\dataobj2.h
+1186411242 e:\wxwidgets-2.8.12\include\wx\msw\ole\dataobj2.h
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\ctrlsub.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\ctrlsub.h
 	"wx/defs.h"
 	"wx/control.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\bmpbuttn.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\bmpbuttn.h
 	"wx/defs.h"
 	"wx/bitmap.h"
 	"wx/button.h"
@@ -1407,14 +1407,14 @@
 	"wx/cocoa/bmpbuttn.h"
 	"wx/os2/bmpbuttn.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\bmpbuttn.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\bmpbuttn.h
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\bmpbuttn.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\bmpbuttn.h
 	"wx/button.h"
 	"wx/bitmap.h"
 	"wx/brush.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\checklst.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\checklst.h
 	"wx/listbox.h"
 	"wx/univ/checklst.h"
 	"wx/msw/wince/checklst.h"
@@ -1426,7 +1426,7 @@
 	"wx/cocoa/checklst.h"
 	"wx/os2/checklst.h"
 
-1194614180 e:\wxwidgets-2.8.12\include\wx\listbox.h
+1194617780 e:\wxwidgets-2.8.12\include\wx\listbox.h
 	"wx/defs.h"
 	"wx/ctrlsub.h"
 	"wx/univ/listbox.h"
@@ -1438,21 +1438,21 @@
 	"wx/os2/listbox.h"
 	"wx/cocoa/listbox.h"
 
-1264670758 e:\wxwidgets-2.8.12\include\wx\univ\listbox.h
+1264674358 e:\wxwidgets-2.8.12\include\wx\univ\listbox.h
 	"wx/scrolwin.h"
 	"wx/dynarray.h"
 	"wx/arrstr.h"
 
-1298308166 e:\wxwidgets-2.8.12\include\wx\msw\listbox.h
+1298311766 e:\wxwidgets-2.8.12\include\wx\msw\listbox.h
 	"wx/dynarray.h"
 
-1264670758 e:\wxwidgets-2.8.12\include\wx\univ\checklst.h
+1264674358 e:\wxwidgets-2.8.12\include\wx\univ\checklst.h
 
-1186407648 e:\wxwidgets-2.8.12\include\wx\msw\wince\checklst.h
+1186411248 e:\wxwidgets-2.8.12\include\wx\msw\wince\checklst.h
 
-1194614174 e:\wxwidgets-2.8.12\include\wx\msw\checklst.h
+1194617774 e:\wxwidgets-2.8.12\include\wx\msw\checklst.h
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\choice.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\choice.h
 	"wx/defs.h"
 	"wx/ctrlsub.h"
 	"wx/univ/choice.h"
@@ -1465,10 +1465,10 @@
 	"wx/cocoa/choice.h"
 	"wx/os2/choice.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\choice.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\choice.h
 	"wx/combobox.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\combobox.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\combobox.h
 	"wx/defs.h"
 	"wx/textctrl.h"
 	"wx/ctrlsub.h"
@@ -1481,10 +1481,10 @@
 	"wx/cocoa/combobox.h"
 	"wx/os2/combobox.h"
 
-1264670758 e:\wxwidgets-2.8.12\include\wx\univ\combobox.h
+1264674358 e:\wxwidgets-2.8.12\include\wx\univ\combobox.h
 	"wx/combo.h"
 
-1298308168 e:\wxwidgets-2.8.12\include\wx\combo.h
+1298311768 e:\wxwidgets-2.8.12\include\wx\combo.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/renderer.h"
@@ -1492,28 +1492,28 @@
 	"wx/msw/combo.h"
 	"wx/generic/combo.h"
 
-1211434090 e:\wxwidgets-2.8.12\include\wx\renderer.h
+1211437690 e:\wxwidgets-2.8.12\include\wx\renderer.h
 	"wx/gdicmn.h"
 	"wx/colour.h"
 	"wx/font.h"
 	"wx/bitmap.h"
 	"wx/string.h"
 
-1186407650 e:\wxwidgets-2.8.12\include\wx\msw\combo.h
+1186411250 e:\wxwidgets-2.8.12\include\wx\msw\combo.h
 	"wx/timer.h"
 
-1264670764 e:\wxwidgets-2.8.12\include\wx\generic\combo.h
+1264674364 e:\wxwidgets-2.8.12\include\wx\generic\combo.h
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\combobox.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\combobox.h
 	"wx/choice.h"
 
-1186407648 e:\wxwidgets-2.8.12\include\wx\msw\wince\choicece.h
+1186411248 e:\wxwidgets-2.8.12\include\wx\msw\wince\choicece.h
 	"wx/defs.h"
 	"wx/dynarray.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\choice.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\choice.h
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\scrolbar.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\scrolbar.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/univ/scrolbar.h"
@@ -1525,13 +1525,13 @@
 	"wx/cocoa/scrolbar.h"
 	"wx/os2/scrolbar.h"
 
-1264670758 e:\wxwidgets-2.8.12\include\wx\univ\scrolbar.h
+1264674358 e:\wxwidgets-2.8.12\include\wx\univ\scrolbar.h
 	"wx/univ/scrarrow.h"
 	"wx/renderer.h"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\scrolbar.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\scrolbar.h
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\statbmp.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\statbmp.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/bitmap.h"
@@ -1545,15 +1545,15 @@
 	"wx/cocoa/statbmp.h"
 	"wx/os2/statbmp.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\statbmp.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\statbmp.h
 	"wx/bitmap.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\statbmp.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\statbmp.h
 	"wx/control.h"
 	"wx/icon.h"
 	"wx/bitmap.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\statbox.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\statbox.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/univ/statbox.h"
@@ -1565,11 +1565,11 @@
 	"wx/cocoa/statbox.h"
 	"wx/os2/statbox.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\statbox.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\statbox.h
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\statbox.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\statbox.h
 
-1220338544 e:\wxwidgets-2.8.12\include\wx\radiobox.h
+1220342144 e:\wxwidgets-2.8.12\include\wx\radiobox.h
 	"wx/ctrlsub.h"
 	"wx/dynarray.h"
 	"wx/univ/radiobox.h"
@@ -1582,14 +1582,14 @@
 	"wx/os2/radiobox.h"
 	"wx/palmos/radiobox.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\radiobox.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\radiobox.h
 	"wx/statbox.h"
 	"wx/dynarray.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\radiobox.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\radiobox.h
 	"wx/statbox.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\radiobut.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\radiobut.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/univ/radiobut.h"
@@ -1602,12 +1602,12 @@
 	"wx/os2/radiobut.h"
 	"wx/palmos/radiobut.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\radiobut.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\radiobut.h
 	"wx/checkbox.h"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\radiobut.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\radiobut.h
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\slider.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\slider.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/univ/slider.h"
@@ -1620,15 +1620,15 @@
 	"wx/os2/slider.h"
 	"wx/palmos/slider.h"
 
-1264670758 e:\wxwidgets-2.8.12\include\wx\univ\slider.h
+1264674358 e:\wxwidgets-2.8.12\include\wx\univ\slider.h
 	"wx/univ/scrthumb.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\scrthumb.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\scrthumb.h
 	"wx/timer.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\slider95.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\slider95.h
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\gauge.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\gauge.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/univ/gauge.h"
@@ -1640,11 +1640,11 @@
 	"wx/cocoa/gauge.h"
 	"wx/os2/gauge.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\gauge.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\gauge.h
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\gauge95.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\gauge95.h
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\dirdlg.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\dirdlg.h
 	"wx/dialog.h"
 	"wx/generic/dirdlgg.h"
 	"wx/generic/dirdlgg.h"
@@ -1656,12 +1656,12 @@
 	"wx/cocoa/dirdlg.h"
 	"wx/generic/dirdlgg.h"
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\dirdlgg.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\dirdlgg.h
 	"wx/dialog.h"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\dirdlg.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\dirdlg.h
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\toolbar.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\toolbar.h
 	"wx/defs.h"
 	"wx/tbarbase.h"
 	"wx/univ/toolbar.h"
@@ -1675,40 +1675,40 @@
 	"wx/cocoa/toolbar.h"
 	"wx/os2/toolbar.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\tbarbase.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\tbarbase.h
 	"wx/defs.h"
 	"wx/bitmap.h"
 	"wx/list.h"
 	"wx/control.h"
 
-1264670756 e:\wxwidgets-2.8.12\include\wx\univ\toolbar.h
+1264674356 e:\wxwidgets-2.8.12\include\wx\univ\toolbar.h
 	"wx/button.h"
 
-1234519244 e:\wxwidgets-2.8.12\include\wx\msw\tbar95.h
+1234522844 e:\wxwidgets-2.8.12\include\wx\msw\tbar95.h
 	"wx/dynarray.h"
 	"wx/imaglist.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\imaglist.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\imaglist.h
 	"wx/generic/imaglist.h"
 	"wx/msw/imaglist.h"
 	"wx/mac/imaglist.h"
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\imaglist.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\imaglist.h
 	"wx/defs.h"
 	"wx/list.h"
 	"wx/icon.h"
 
-1186407650 e:\wxwidgets-2.8.12\include\wx\msw\imaglist.h
+1186411250 e:\wxwidgets-2.8.12\include\wx\msw\imaglist.h
 	"wx/bitmap.h"
 
-1186407648 e:\wxwidgets-2.8.12\include\wx\msw\wince\tbarwce.h
+1186411248 e:\wxwidgets-2.8.12\include\wx\msw\wince\tbarwce.h
 	"wx/dynarray.h"
 	"wx/msw/tbar95.h"
 
-1194614178 e:\wxwidgets-2.8.12\include\wx\layout.h
+1194617778 e:\wxwidgets-2.8.12\include\wx\layout.h
 	"wx/object.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\mdi.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\mdi.h
 	"wx/defs.h"
 	"wx/generic/mdig.h"
 	"wx/msw/mdi.h"
@@ -1719,12 +1719,12 @@
 	"wx/cocoa/mdi.h"
 	"wx/generic/mdig.h"
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\mdig.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\mdig.h
 	"wx/frame.h"
 	"wx/panel.h"
 	"wx/notebook.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\notebook.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\notebook.h
 	"wx/defs.h"
 	"wx/bookctrl.h"
 	"wx/univ/notebook.h"
@@ -1736,32 +1736,32 @@
 	"wx/cocoa/notebook.h"
 	"wx/os2/notebook.h"
 
-1194614180 e:\wxwidgets-2.8.12\include\wx\bookctrl.h
+1194617780 e:\wxwidgets-2.8.12\include\wx\bookctrl.h
 	"wx/defs.h"
 	"wx/control.h"
 	"wx/dynarray.h"
 	"wx/notebook.h"
 	"wx/choicebk.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\choicebk.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\choicebk.h
 	"wx/defs.h"
 	"wx/bookctrl.h"
 	"wx/choice.h"
 
-1264670758 e:\wxwidgets-2.8.12\include\wx\univ\notebook.h
+1264674358 e:\wxwidgets-2.8.12\include\wx\univ\notebook.h
 	"wx/arrstr.h"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\notebook.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\notebook.h
 	"wx/control.h"
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\notebook.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\notebook.h
 	"wx/event.h"
 	"wx/control.h"
 
-1211176290 e:\wxwidgets-2.8.12\include\wx\msw\mdi.h
+1211179890 e:\wxwidgets-2.8.12\include\wx\msw\mdi.h
 	"wx/frame.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\statusbr.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\statusbr.h
 	"wx/defs.h"
 	"wx/window.h"
 	"wx/list.h"
@@ -1773,47 +1773,47 @@
 	"wx/mac/statusbr.h"
 	"wx/generic/statusbr.h"
 
-1186407594 e:\wxwidgets-2.8.12\include\wx\univ\statusbr.h
+1186411194 e:\wxwidgets-2.8.12\include\wx\univ\statusbr.h
 	"wx/univ/inpcons.h"
 	"wx/arrstr.h"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\statbr95.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\statbr95.h
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\statusbr.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\statusbr.h
 	"wx/defs.h"
 	"wx/pen.h"
 	"wx/arrstr.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\choicdlg.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\choicdlg.h
 	"wx/generic/choicdgg.h"
 
-1194614178 e:\wxwidgets-2.8.12\include\wx\generic\choicdgg.h
+1194617778 e:\wxwidgets-2.8.12\include\wx\generic\choicdgg.h
 	"wx/dynarray.h"
 	"wx/dialog.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\textdlg.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\textdlg.h
 	"wx/generic/textdlgg.h"
 	"wx/numdlg.h"
 
-1194614178 e:\wxwidgets-2.8.12\include\wx\generic\textdlgg.h
+1194617778 e:\wxwidgets-2.8.12\include\wx\generic\textdlgg.h
 	"wx/defs.h"
 	"wx/dialog.h"
 	"wx/valtext.h"
 
-1264670764 e:\wxwidgets-2.8.12\include\wx\valtext.h
+1264674364 e:\wxwidgets-2.8.12\include\wx\valtext.h
 	"wx/defs.h"
 	"wx/textctrl.h"
 	"wx/validate.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\numdlg.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\numdlg.h
 	"wx/defs.h"
 	"wx/generic/numdlgg.h"
 
-1194614178 e:\wxwidgets-2.8.12\include\wx\generic\numdlgg.h
+1194617778 e:\wxwidgets-2.8.12\include\wx\generic\numdlgg.h
 	"wx/defs.h"
 	"wx/dialog.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\filedlg.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\filedlg.h
 	"wx/defs.h"
 	"wx/dialog.h"
 	"wx/arrstr.h"
@@ -1827,36 +1827,36 @@
 	"wx/cocoa/filedlg.h"
 	"wx/os2/filedlg.h"
 
-1186407686 e:\wxwidgets-2.8.12\include\wx\generic\filedlgg.h
+1186411286 e:\wxwidgets-2.8.12\include\wx\generic\filedlgg.h
 	"wx/listctrl.h"
 	"wx/datetime.h"
 	"wx/filefn.h"
 	"wx/filedlg.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\listctrl.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\listctrl.h
 	"wx/defs.h"
 	"wx/listbase.h"
 	"wx/msw/listctrl.h"
 	"wx/mac/carbon/listctrl.h"
 	"wx/generic/listctrl.h"
 
-1186407694 e:\wxwidgets-2.8.12\include\wx\listbase.h
+1186411294 e:\wxwidgets-2.8.12\include\wx\listbase.h
 	"wx/colour.h"
 	"wx/font.h"
 	"wx/gdicmn.h"
 	"wx/event.h"
 
-1220338542 e:\wxwidgets-2.8.12\include\wx\msw\listctrl.h
+1220342142 e:\wxwidgets-2.8.12\include\wx\msw\listctrl.h
 	"wx/textctrl.h"
 
-1264670764 e:\wxwidgets-2.8.12\include\wx\generic\listctrl.h
+1264674364 e:\wxwidgets-2.8.12\include\wx\generic\listctrl.h
 	"wx/textctrl.h"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\filedlg.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\filedlg.h
 
 1574596255 c:\users\mateusz\projekty codeblocks\relynxer\include\lynxphoto.h
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\mstream.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\mstream.h
 	"wx/defs.h"
 	"wx/stream.h"
 
@@ -1902,12 +1902,12 @@
 	<wx/button.h>
 	<wx/dialog.h>
 
-1234519246 e:\wxwidgets-2.8.12\include\wx\aboutdlg.h
+1234522846 e:\wxwidgets-2.8.12\include\wx\aboutdlg.h
 	"wx/defs.h"
 	"wx/app.h"
 	"wx/icon.h"
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\dir.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\dir.h
 	"wx/longlong.h"
 	"wx/string.h"
 
@@ -1917,57 +1917,57 @@
 	<wx/config.h>
 	<wx/filename.h>
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\config.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\config.h
 	"wx/confbase.h"
 	"wx/msw/regconf.h"
 	"wx/msw/iniconf.h"
 	"wx/palmos/prefconf.h"
 	"wx/fileconf.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\confbase.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\confbase.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/string.h"
 
-1264670760 e:\wxwidgets-2.8.12\include\wx\msw\regconf.h
+1264674360 e:\wxwidgets-2.8.12\include\wx\msw\regconf.h
 	"wx/defs.h"
 	"wx/msw/registry.h"
 	"wx/object.h"
 	"wx/confbase.h"
 
-1194614174 e:\wxwidgets-2.8.12\include\wx\msw\registry.h
+1194617774 e:\wxwidgets-2.8.12\include\wx\msw\registry.h
 
-1264670760 e:\wxwidgets-2.8.12\include\wx\msw\iniconf.h
+1264674360 e:\wxwidgets-2.8.12\include\wx\msw\iniconf.h
 	"wx/defs.h"
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\fileconf.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\fileconf.h
 	"wx/defs.h"
 	"wx/textfile.h"
 	"wx/string.h"
 	"wx/confbase.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\textfile.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\textfile.h
 	"wx/defs.h"
 	"wx/textbuf.h"
 	"wx/file.h"
 
-1211176296 e:\wxwidgets-2.8.12\include\wx\textbuf.h
+1211179896 e:\wxwidgets-2.8.12\include\wx\textbuf.h
 	"wx/defs.h"
 	"wx/arrstr.h"
 	"wx/convauto.h"
 	"wx/string.h"
 	"wx/dynarray.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\convauto.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\convauto.h
 	"wx/strconv.h"
 
-1186407694 e:\wxwidgets-2.8.12\include\wx\file.h
+1186411294 e:\wxwidgets-2.8.12\include\wx\file.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/filefn.h"
 	"wx/strconv.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\filename.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\filename.h
 	"wx/arrstr.h"
 	"wx/filefn.h"
 	"wx/datetime.h"
@@ -2005,7 +2005,7 @@
 	"json_defs.h"
 	"jsonval.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\wxprec.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\wxprec.h
 	"wx/defs.h"
 	"wx/wxchar.h"
 	"wx/msw/wrapwin.h"
@@ -2018,21 +2018,21 @@
 	"wx/mgl/private.h"
 	"wx/wx.h"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\wrapcctl.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\wrapcctl.h
 	"wx/msw/wrapwin.h"
 	<commctrl.h>
 	"wx/msw/missing.h"
 
-1188473904 e:\wxwidgets-2.8.12\include\wx\msw\missing.h
+1188477504 e:\wxwidgets-2.8.12\include\wx\msw\missing.h
 	<windows.h>
 	"wx/msw/winundef.h"
 	"wx/msw/wince/missing.h"
 
-1186407648 e:\wxwidgets-2.8.12\include\wx\msw\wince\missing.h
+1186411248 e:\wxwidgets-2.8.12\include\wx\msw\wince\missing.h
 	"wx/msw/private.h"
 	"shellapi.h"
 
-1186407652 e:\wxwidgets-2.8.12\include\wx\msw\wrapcdlg.h
+1186411252 e:\wxwidgets-2.8.12\include\wx\msw\wrapcdlg.h
 	"wx/defs.h"
 	"wx/msw/wrapwin.h"
 	"wx/msw/private.h"
@@ -2057,7 +2057,7 @@
 	<wx/debug.h>
 	<wx/log.h>
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\sstream.h
+1186411292 e:\wxwidgets-2.8.12\include\wx\sstream.h
 	"wx/stream.h"
 
 1437473476 source:c:\users\mateusz\projekty codeblocks\relynxer\src\jsonval.cpp
@@ -2067,7 +2067,7 @@
 	<wx/arrimpl.cpp>
 	"../include/wx/jsonval.h"
 
-1186407692 e:\wxwidgets-2.8.12\include\wx\arrimpl.cpp
+1186411292 e:\wxwidgets-2.8.12\include\wx\arrimpl.cpp
 
 1437473489 source:c:\users\mateusz\projekty codeblocks\relynxer\src\jsonwriter.cpp
 	"../include/wx/jsonwriter.h"
@@ -2092,7 +2092,7 @@
 	<wx/thread.h>
 	"../WaitDialog.h"
 
-1264670760 e:\wxwidgets-2.8.12\lib\gcc_lib\mswu\wx\setup.h
+1264674360 e:\wxwidgets-2.8.12\lib\gcc_lib\mswu\wx\setup.h
 
 1614534652 c:\users\mateusz\projekty codeblocks\relynxer\include\linkparams.h
 
@@ -2105,7 +2105,7 @@
 	<wx/sstream.h>
 	<wx/intl.h>
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\wfstream.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\wfstream.h
 	"wx/defs.h"
 	"wx/object.h"
 	"wx/string.h"
@@ -2113,10 +2113,185 @@
 	"wx/file.h"
 	"wx/ffile.h"
 
-1264670766 e:\wxwidgets-2.8.12\include\wx\ffile.h
+1264674366 e:\wxwidgets-2.8.12\include\wx\ffile.h
 	"wx/defs.h"
 	"wx/string.h"
 	"wx/filefn.h"
 	"wx/convauto.h"
 	<stdio.h>
+
+1650311188 source:c:\users\mateusz\codebase\relynxer\relynxer\moredialog.cpp
+	"RelynxerApp.h"
+	"MoreDialog.h"
+	<wx/aboutdlg.h>
+	<wx/intl.h>
+	<wx/string.h>
+
+1636673086 c:\users\mateusz\codebase\relynxer\relynxer\relynxerapp.h
+	"include/wxTranslationHelper.h"
+	"ConfigFile.h"
+	<wx/app.h>
+
+1438632280 c:\users\mateusz\codebase\relynxer\relynxer\include\wxtranslationhelper.h
+	<wx/wx.h>
+	<wx/intl.h>
+
+1636670701 c:\users\mateusz\codebase\relynxer\relynxer\include\configfile.h
+	<wx/string.h>
+
+1636672473 c:\users\mateusz\codebase\relynxer\relynxer\moredialog.h
+	<wx/sizer.h>
+	<wx/button.h>
+	<wx/dialog.h>
+
+1637094995 source:c:\users\mateusz\codebase\relynxer\relynxer\relynxerapp.cpp
+	"RelynxerApp.h"
+	<wx/filename.h>
+	<wx/dir.h>
+	"RelynxerMain.h"
+	<wx/image.h>
+
+1637011200 c:\users\mateusz\codebase\relynxer\relynxer\relynxermain.h
+	<wx/sizer.h>
+	<wx/stattext.h>
+	<wx/textctrl.h>
+	<wx/checkbox.h>
+	<wx/datectrl.h>
+	<wx/spinctrl.h>
+	<wx/statline.h>
+	<wx/panel.h>
+	<wx/dateevt.h>
+	<wx/button.h>
+	<wx/dialog.h>
+	"include/LinkParams.h"
+
+1614538252 c:\users\mateusz\codebase\relynxer\relynxer\include\linkparams.h
+
+1650311198 source:c:\users\mateusz\codebase\relynxer\relynxer\resource.rc
+	"wx/msw/wx.rc"
+
+1636669453 source:c:\users\mateusz\codebase\relynxer\relynxer\src\configfile.cpp
+	"ConfigFile.h"
+	<wx/wfstream.h>
+	<wx/sstream.h>
+	<wx/intl.h>
+
+1437477058 source:c:\users\mateusz\codebase\relynxer\relynxer\src\jsonreader.cpp
+	"../include/wx/jsonreader.h"
+	<wx/mstream.h>
+	<wx/sstream.h>
+	<wx/debug.h>
+	<wx/log.h>
+
+1263058146 c:\users\mateusz\codebase\relynxer\relynxer\include\wx\jsonreader.h
+	"wx/wxprec.h"
+	<wx/stream.h>
+	<wx/string.h>
+	<wx/arrstr.h>
+	"json_defs.h"
+	"jsonval.h"
+
+1274688402 c:\users\mateusz\codebase\relynxer\relynxer\include\wx\json_defs.h
+
+1264586166 c:\users\mateusz\codebase\relynxer\relynxer\include\wx\jsonval.h
+	"wx/wxprec.h"
+	<wx/object.h>
+	<wx/hashmap.h>
+	<wx/dynarray.h>
+	<wx/arrstr.h>
+	"json_defs.h"
+
+1437477076 source:c:\users\mateusz\codebase\relynxer\relynxer\src\jsonval.cpp
+	"wx/wxprec.h"
+	<wx/log.h>
+	<wx/debug.h>
+	<wx/arrimpl.cpp>
+	"../include/wx/jsonval.h"
+
+1437477089 source:c:\users\mateusz\codebase\relynxer\relynxer\src\jsonwriter.cpp
+	"../include/wx/jsonwriter.h"
+	<wx/sstream.h>
+	<wx/mstream.h>
+	<wx/debug.h>
+	<wx/log.h>
+
+1262952710 c:\users\mateusz\codebase\relynxer\relynxer\include\wx\jsonwriter.h
+	"wx/wxprec.h"
+	<wx/stream.h>
+	<wx/string.h>
+	"json_defs.h"
+	"jsonval.h"
+
+1636909221 source:c:\users\mateusz\codebase\relynxer\relynxer\src\sendrequestthread.cpp
+	"../include/SendRequestThread.h"
+	"../include/curl/curl.h"
+	"../include/wx/jsonreader.h"
+
+1614536486 c:\users\mateusz\codebase\relynxer\relynxer\include\sendrequestthread.h
+	<wx/thread.h>
+	"../WaitDialog.h"
+
+1618072228 c:\users\mateusz\codebase\relynxer\relynxer\waitdialog.h
+	<wx/sizer.h>
+	<wx/stattext.h>
+	<wx/button.h>
+	<wx/dialog.h>
+	<wx/timer.h>
+	"RelynxerMain.h"
+
+1130535713 c:\users\mateusz\codebase\relynxer\relynxer\include\curl\curl.h
+	"curlver.h"
+	<stdio.h>
+	<limits.h>
+	<types.h>
+	<time.h>
+	<sys/types.h>
+	<time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+
+1130535713 c:\users\mateusz\codebase\relynxer\relynxer\include\curl\curlver.h
+
+1130535713 c:\users\mateusz\codebase\relynxer\relynxer\include\curl\easy.h
+
+1130535713 c:\users\mateusz\codebase\relynxer\relynxer\include\curl\multi.h
+	<winsock2.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<sys/types.h>
+	"curl.h"
+
+1636670304 source:c:\users\mateusz\codebase\relynxer\relynxer\src\wxtranslationhelper.cpp
+	"../include/wxTranslationHelper.h"
+	<wx/dir.h>
+	<wx/config.h>
+	<wx/filename.h>
+
+1618072702 source:c:\users\mateusz\codebase\relynxer\relynxer\waitdialog.cpp
+	"WaitDialog.h"
+	"include/SendRequestThread.h"
+	<wx/msgdlg.h>
+	<wx/intl.h>
+	<wx/string.h>
+
+1650313934 source:c:\users\mateusz\codebase\relynxer\relynxer\relynxermain.cpp
+	"RelynxerMain.h"
+	"MoreDialog.h"
+	"WaitDialog.h"
+	"include/wxImagePanel.h"
+	"include/LynxPhoto.h"
+	<wx/msgdlg.h>
+	<wx/mstream.h>
+	<wx/settings.h>
+	<wx/font.h>
+	<wx/intl.h>
+	<wx/string.h>
+
+1438009395 c:\users\mateusz\codebase\relynxer\relynxer\include\wximagepanel.h
+	<wx/wx.h>
+	<wx/sizer.h>
+
+1574599855 c:\users\mateusz\codebase\relynxer\relynxer\include\lynxphoto.h
 

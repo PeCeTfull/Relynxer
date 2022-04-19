@@ -1,0 +1,7 @@
+The changelog of Relynxer
+
+1.0.1 (2022-04-19): 
+* fixed wizard text to properly wrap on Wine; 
+* corrected widths and positions of some controls including wizard buttons.
+
+1.0 (2021-12-09) — first public release version.

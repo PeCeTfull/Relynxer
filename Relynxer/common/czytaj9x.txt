@@ -1,7 +1,7 @@
-Relynxer 1.0
+Relynxer 1.0.1
 Autor: PeCeT_full
 Strona WWW: http://www.pecetfull.pl/pl
-Copyright © by PeCeT_full 2021. Program Relynxer jest publikowany na zasadach licencji MIT. Wiêcej informacji mo¿na uzyskaæ zapoznaj¹c siê z plikiem Licence.txt do³¹czonym do aplikacji (polskie t³umaczenie licencji MIT: http://blaszyk-jarosinski.pl/wp-content/uploads/2008/05/licencja-mit-tlumaczenie.pdf).
+Copyright © by PeCeT_full 2021-2022. Program Relynxer jest publikowany na zasadach licencji MIT. Wiêcej informacji mo¿na uzyskaæ zapoznaj¹c siê z plikiem Licence.txt do³¹czonym do aplikacji (polskie t³umaczenie licencji MIT: http://blaszyk-jarosinski.pl/wp-content/uploads/2008/05/licencja-mit-tlumaczenie.pdf).
 
 W razie wszelkich problemów czy te¿ w¹tpliwoœci proszê o kontakt.
 

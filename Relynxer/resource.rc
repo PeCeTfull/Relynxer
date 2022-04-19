@@ -5,8 +5,8 @@ aaaa ICON "relynxer.ico"
 LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
 
 VS_VERSION_INFO    VERSIONINFO
-  FILEVERSION      1,0,0,0
-  PRODUCTVERSION   1,0,0,0
+  FILEVERSION      1,0,1,0
+  PRODUCTVERSION   1,0,1,0
   FILEFLAGSMASK    0x3fL // VS_FFI_FILEFLAGSMASK
 #ifdef _DEBUG
   FILEFLAGS        0x1L  // VS_FF_DEBUG|VS_FF_PRIVATEBUILD|VS_FF_PRERELEASE
@@ -25,12 +25,12 @@ VS_VERSION_INFO    VERSIONINFO
       VALUE "Comments",         "A wizard program for the link shortening service Lynx.re. Powered by Shrinky.\0"
       VALUE "CompanyName",      "PeCeT_full\0"
       VALUE "FileDescription",  "Relynxer\0"
-      VALUE "FileVersion",      "1.0\0"
-      VALUE "LegalCopyright",   "Copyright (C) PeCeT_full 2021\0"
+      VALUE "FileVersion",      "1.0.1\0"
+      VALUE "LegalCopyright",   "Copyright (C) PeCeT_full 2021-2022\0"
       VALUE "LegalTrademarks",  "Some rights reserved\0"
       VALUE "OriginalFilename", "relynxer.exe\0"
       VALUE "ProductName",      "Relynxer\0"
-      VALUE "ProductVersion",   "1.0\0"
+      VALUE "ProductVersion",   "1.0.1\0"
     } // BLOCK "100904E4"
   } // BLOCK "StringFileInfo"
   BLOCK "VarFileInfo"

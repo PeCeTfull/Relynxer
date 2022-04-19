@@ -1,0 +1,7 @@
+Spis zmian programu Relynxer
+
+1.0.1 (19.IV.2022): 
+* poprawiono tekst kreatora, aby poprawnie siê zawija³ w œrodowisku Wine; 
+* skorygowano szerokoœci oraz pozycje niektórych kontrolek ³¹cznie z przyciskami kreatora.
+
+1.0 (9.XII.2021) — pierwsza publicznie wydana wersja.

@@ -148,8 +148,8 @@ void MoreDialog::OnBtnAboutClick(wxCommandEvent& event)
     wxAboutDialogInfo info;
     info.SetIcon(wxIcon(wxT(ICON_NAME)));
     info.SetName(_("Relynxer"));
-    info.SetVersion(wxT("1.0"));
-    info.SetCopyright(wxT("Copyright (C) PeCeT_full 2021 <me@pecetfull.pl>"));
+    info.SetVersion(wxT("1.0.1"));
+    info.SetCopyright(wxT("Copyright (C) PeCeT_full 2021-2022 <me@pecetfull.pl>"));
     info.SetDescription(_("A wizard program for the link shortening service Lynx.re. Powered by Shrinky.\n\nBuild info: ") + wxBuildInfo(long_f) + _(".\nBuild date: ") +  __TDATE__ + wxT(", ") __TTIME__ + _(".\n\nCurrent language: ") + currentLanguageName + '.');
     info.SetWebSite(_("http://www.pecetfull.pl"));
     info.SetLicence(_("This program is published under The MIT License. For more information, please refer to the Licence.txt file included with the application."));
