@@ -49,3 +49,7 @@ This program also includes libraries and source codes that are necessary to succ
 ### Screenshots ###
 
 <img width="472" height="384" alt="The wizard window of Relynxer" src="https://github.com/user-attachments/assets/b4adf078-7e48-4887-8105-c2795868ed87" />
+
+### Videos ###
+
+[![[UNSUPPORTED] lynx.re & Relynxer – the URL shortening solution for legacy Windows (from Windows 95)](https://img.youtube.com/vi/TwqGI1nSa6c/0.jpg)](https://www.youtube.com/watch?v=TwqGI1nSa6c)
