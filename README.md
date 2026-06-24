@@ -45,3 +45,7 @@ Additional info: The post-build script for Release contains the line that launch
 Relynxer is published under The MIT License. Please refer to the LICENSE.txt file of this repository for more information regarding it.
 
 This program also includes libraries and source codes that are necessary to successfully compile and launch the software. The licensing information regarding those are located in the Licenses directory.
+
+### Screenshots ###
+
+<img width="472" height="384" alt="The wizard window of Relynxer" src="https://github.com/user-attachments/assets/b4adf078-7e48-4887-8105-c2795868ed87" />
